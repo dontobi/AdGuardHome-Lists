@@ -1,0 +1,212 @@
+# Amazon
+||aan.amazon.com^
+||aax.amazon-adsystem.com^
+||amazon-adsystem.com^
+||assoc-amazon.com^
+||c.amazon-adsystem.com^
+||mads.amazon-adsystem.com^
+# Apple
+||books-analytics-events.apple.com^
+||books-analytics-events.news.apple-dns.net^
+||dzc-metrics.mzstatic.com^
+||metrics.apple.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||securemetrics.apple.com^
+||stocks-analytics-events.apple.com^
+||stocks-analytics-events.news.apple-dns.net^
+||supportmetrics.apple.com^
+||trackingshipment.apple.com^
+# Bugsnag
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+# Doubleclick.net
+||ad.doubleclick.net^
+||doubleclick.net^
+# Facebook
+||ads.facebook.com^
+||adtools.facebook.com^
+||analytics.facebook.com^
+||pixel.facebook.com^
+# FastClick
+||cdn.fastclick.net^
+||media.fastclick.net^
+# FreshMarketer
+||freshmarketer.com^
+# Google
+||ads.google.com^
+||adservice.google.com^
+||google-analytics.com^
+||pagead2.googlesyndication.com^
+||pagead2.googleadservices.com^
+# Hotjar
+||hotjar.com^
+||static.hotjar.com^
+# Huawei
+||logbak.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||metrics-dra.dt.hicloud.com^
+||metrics.data.hicloud.com^
+||metrics1.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||metrics3.data.hicloud.com^
+||metrics4.data.hicloud.com^
+||metrics5.data.hicloud.com^
+# LinkedIn
+||ads.linkedin.com^
+||analytics.pointdrive.linkedin.com^
+# Luckyorange
+||cdn.luckyorange.com^
+||cs.luckyorange.net^
+||settings.luckyorange.net^
+||upload.luckyorange.net^
+||w1.luckyorange.com^
+# Media.net
+||adservetx.media.net^
+||media.net^
+||static.media.net^
+# MouseFlow
+||a.mouseflow.com^
+||mouseflow.com^
+# OnePlus
+||analytics.oneplus.cn^
+||click.oneplus.cn^
+||click.oneplus.com^
+||open.oneplus.net^
+# OPPO
+||adsfs.oppomobile.com^
+||adx.ads.oppomobile.com^
+||bdapi.ads.oppomobile.com^
+||ck.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+||g1.ads.oppomobile.com^
+# Pinterest
+||ads.pinterest.com^
+||analytics.pinterest.com^
+||log.pinterest.com^
+||trk.pinterest.com^
+||widgets.pinterest.com^
+# Realme
+||ata-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+# Reddit
+||ads.reddit.com^
+||events.redditmedia.com^
+||rereddit.com^
+||stats.redditmedia.com^
+# Samsung
+||ad.samsungadhub.com^
+||ad.samsungads.com^
+||analytics-api.samsunghealthcn.com^
+||analytics.samsungknox.com^
+||bigdata.ssp.samsung.com^
+||config.samsungads.com^
+||insights.samsung.com^
+||nmetrics.samsung.com^
+||samsung-com.112.2o7.net^
+||samsungadhub.com^
+||samsungads.com^
+||smetrics.samsung.com^
+# Sentry
+||browser.sentry-cdn.com^
+# TikTok
+||ads.tiktok.com^
+||analytics.tiktok.comet^
+# Twitter
+||ads-twitter.com^
+||analytics.twitter.com^
+||static.ads-twitter.com^
+# Wordpress
+||stats.wp.com^
+# Xiaomi
+||ad.xiaomi.com^
+||api.ad.xiaomi.com^
+||app.chat.xiaomi.net^
+||data.mistat.india.xiaomi.com^
+||data.mistat.intl.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||data.mistat.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||sa.api.intl.miui.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||stat.xiaomi.com^
+||tracking.india.miui.com^
+||tracking.intl.miui.com^
+||tracking.miui.com^
+||tracking.rus.miui.com^
+||www.cdn.ad.xiaomi.com^
+# Yahoo
+||ads.yahoo.com^
+||ads.yap.yahoo.com^
+||adserver.yahoo.com^
+||adspecs.yahoo.com^
+||advertising.yahoo.com^
+||analytics.query.yahoo.com^
+||analytics.yahoo.com^
+||bats.video.yahoo.com^
+||beap.gemini.yahoo.com^
+||br.adspecs.yahoo.com^
+||cms.analytics.yahoo.com^
+||comet.yahoo.com^
+||de.advertising.yahoo.com^
+||es.advertising.yahoo.com^
+||fr.advertising.yahoo.com^
+||ganon.yahoo.com^
+||gemini.yahoo.com^
+||geo.query.yahoo.com^
+||geo.yahoo.com^
+||global.adserver.yahoo.com^
+||in.advertising.yahoo.com^
+||it.advertising.yahoo.com^
+||latam.adspecs.yahoo.com^
+||log.fc.yahoo.com^
+||m.yap.yahoo.com^
+||marketingsolutions.yahoo.com^
+||onepush.query.yahoo.com^
+||opus.analytics.yahoo.com^
+||partnerads.ysm.yahoo.com^
+||pclick.yahoo.com^
+||sea.advertising.yahoo.com^
+||sp.analytics.yahoo.com^
+||uk.advertising.yahoo.com^
+||us.adserver.yahoo.com^
+||ush.adspecs.yahoo.com^
+||visit.webhosting.yahoo.com^
+# Yandex
+||19534.redirect.appmetrica.yandex.com^
+||3.redirect.appmetrica.yandex.com^
+||30488.redirect.appmetrica.yandex.com^
+||4.redirect.appmetrica.yandex.com^
+||adfox.yandex.ru^
+||adsdk.yandex.ru^
+||an.yandex.ru^
+||analytics.mobile.yandex.net^
+||appmetrica.yandex.com^
+||awaps.yandex.ru^
+||awsync.yandex.ru^
+||banners-slb.mobile.yandex.net^
+||banners.mobile.yandex.net^
+||bs-meta.yandex.ru^
+||bs.yandex.ru^
+||clck.yandex.ru^
+||click.sender.yandex.ru^
+||extmaps-api.yandex.net^
+||grade.market.yandex.ru^
+||informer.yandex.ru^
+||kiks.yandex.ru^
+||matchid.adfox.yandex.ru^
+||mc.yandex.ru^
+||metrika.yandex.ru^
+||mobile.yandexadexchange.net^
+||offerwall.yandex.net^
+||redirect.appmetrica.yandex.com^
+||redirect.appmetrica.yandex.ru^
+||report.appmetrica.yandex.net^
+||share.yandex.ru^
+||startup.mobile.yandex.net^
+||yandexadexchange.net^
+# YouTube
+||ads.youtube.com^
+||youtube.cleverads.vn^

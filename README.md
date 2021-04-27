@@ -2,6 +2,10 @@
 <h3>Personal Lists for <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a><br>
 Free and open source, powerful network-wide ads & trackers blocking DNS server.</h3>
 
+## Usage
+Add the following links to your blacklists or whitelists.
+<a href="https://raw.githubusercontent.com/dontobi/AdGuardHome-Lists/main/blacklist.txt">Blacklist</a> | <a href="https://raw.githubusercontent.com/dontobi/AdGuardHome-Lists/main/whitelist.txt">Whitelist</a>
+
 ## License
 MIT License
 
