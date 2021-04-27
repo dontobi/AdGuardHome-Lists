@@ -23,10 +23,14 @@
 @@||amazonvideo.com^$important
 @@||amzn.com^$important
 @@||amzn.to^$important
+@@||api.amazonalexa.com^$important
+@@||arcus-uswest.amazon.com^$important
 @@||atv-ext.amazon.com^$important
 @@||atv-ps.amazon.com^$important
 @@||cloudfront.net^$important
 @@||d25xi40x97liuc.cloudfront.net^$important
+@@||dcape-na.amazon.com^$important
+@@||device-messaging-na.amazon.com^$important
 @@||device-metrics-us-2.amazon.com^$important
 @@||device-metrics-us.amazon.com^$important
 @@||dmqdd6hw24ucf.cloudfront.net^$important
@@ -44,6 +48,7 @@
 @@||appleid.apple.com^$important
 @@||ax.phobos.apple.com.edgesuite.net^$important
 @@||cdn-apple.com^$important
+@@||gateway.fe.apple-dns.net^$important
 @@||gdmf.apple.com.akadns.net^$important
 @@||iadsdk.apple.com.akadns.net^$important
 @@||icloud.com^$important
