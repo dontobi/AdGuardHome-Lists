@@ -1,5 +1,6 @@
 <img src="https://cdn.adguard.com/public/Adguard/Common/adguard_home.svg" width="300px" alt="AdGuard Home" />
-<h3>Personal Lists for <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a> - Free and open source, powerful network-wide ads & trackers blocking DNS server.</h3>
+<h3>Personal Lists for <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a><br>
+Free and open source, powerful network-wide ads & trackers blocking DNS server.</h3>
 
 ## License
 MIT License
