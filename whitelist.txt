@@ -311,3 +311,6 @@
 @@||s2.youtube.com^$important
 @@||youtu.be^$important
 @@||youtube-nocookie.com^$important
+# ZooPlus
+@@||shop-cdn-m.mediazs.com^$important
+@@||shop-public-cdn.mediazs.com^$important
