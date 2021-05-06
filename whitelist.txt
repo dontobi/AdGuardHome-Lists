@@ -158,6 +158,7 @@
 @@||letsencrypt.org^$important
 # Microsoft
 @@||1drv.com^$important
+@@||api3.cc.skype.com^$important
 @@||apps.skype.com^$important
 @@||aspnetcdn.com^$important
 @@||attestation.xboxlive.com^$important
@@ -191,6 +192,7 @@
 @@||t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
 @@||t0.ssl.ak.tiles.virtualearth.net^$important
 @@||teams.events.data.microsoft.com^$important
+@@||teams.microsoft.com^$important
 @@||title.auth.xboxlive.com^$important
 @@||title.mgt.xboxlive.com^$important
 @@||ui.skype.com^$important
