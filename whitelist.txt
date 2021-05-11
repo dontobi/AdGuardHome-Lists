@@ -59,6 +59,8 @@
 @@||np-edge-cdn.itunes-apple.com.akadns.net^$important
 @@||play.itunes.apple.com.edgesuite.net^$important
 @@||uts-api-cdn.itunes-apple.com.akadns.net^$important
+# China-Gadgets
+@@||china-gadgets.de^$important
 # Cloudflare
 @@||cdn.cloudflare.net^$important
 @@||cdnjs.cloudflare.com^$important
@@ -171,6 +173,7 @@
 @@||device.auth.xboxlive.com^$important
 @@||displaycatalog.mp.microsoft.com^$important
 @@||dl.delivery.mp.microsoft.com^$important
+@@||download.windowsupdate.com^$important
 @@||ecn.dev.virtualearth.net^$important
 @@||eds.xboxlive.com^$important
 @@||geo-prod.do.dsp.mp.microsoft.com^$important
@@ -249,6 +252,8 @@
 @@||spotifycdn.net^$important
 @@||spotilocal.com^$important
 @@||upgrade.scdn.com^$important
+# Toniebox
+@@||cdn-global.configcat.com^$important
 # Twitch
 @@||api.twitch.tv^$important
 @@||ext-twitch.tv^$important
