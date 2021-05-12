@@ -176,6 +176,7 @@
 @@||download.windowsupdate.com^$important
 @@||ecn.dev.virtualearth.net^$important
 @@||eds.xboxlive.com^$important
+@@||emdl.ws.microsoft.com^$important
 @@||geo-prod.do.dsp.mp.microsoft.com^$important
 @@||help.ui.xboxlive.com^$important
 @@||i.s-microsoft.com^$important
