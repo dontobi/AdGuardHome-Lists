@@ -281,6 +281,7 @@
 @@||chat.cdn.whatsapp.net^$important
 @@||g.whatsapp.net^$important
 @@||media-muc2-1.cdn.whatsapp.net^$important
+@@||media-vie1-1.cdn.whatsapp.net^$important
 @@||static.whatsapp.net^$important
 @@||web.whatsapp.com^$important
 @@||whatsapp.com^$important
