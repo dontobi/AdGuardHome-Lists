@@ -59,6 +59,8 @@
 @@||np-edge-cdn.itunes-apple.com.akadns.net^$important
 @@||play.itunes.apple.com.edgesuite.net^$important
 @@||uts-api-cdn.itunes-apple.com.akadns.net^$important
+# Bauhaus
+@@||media.bahag.cloud^$important
 # China-Gadgets
 @@||china-gadgets.de^$important
 # Cloudflare
