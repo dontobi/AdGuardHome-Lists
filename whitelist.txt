@@ -14,6 +14,18 @@
 @@||campaign.aliexpress.com^$important
 @@||login.aliexpress.com^$important
 @@||sale.aliexpress.com^$important
+# Amazfit / Huami / Zepp
+@@||account.huami.com^$important
+@@||account-de.huami.com^$important
+@@||account-de2.huami.com^$important
+@@||api-mifit.huami.com^$important
+@@||api-mifit-de.huami.com^$important
+@@||api-mifit-de2.huami.com^$important
+@@||api-user.huami.com^$important
+@@||api.amazfit.com^$important
+@@||auth-de.huami.com^$important
+@@||auth-de2.huami.com^$important
+@@||us.statusapi.micloud.xiaomi.net^$important
 # Amazon
 @@||a4k.amazon.com^$important
 @@||aiv-cdn.net.c.footprint.net^$important
@@ -134,10 +146,12 @@
 @@||cse.google.com^$important
 @@||fonts.googleapis.com^$important
 @@||fonts.gstatic.com^$important
+@@||fundingchoicesmessages.google.com^$important
 @@||geo3.ggpht.com^$important
 @@||geomobileservices-pa.googleapis.com^$important
 @@||googleapis.com^$important
 @@||gstatic.com^$important
+@@||id.google.com^$important
 @@||manifest.googlevideo.com^$important
 @@||myaccount.google.com^$important
 @@||photos.googleapis.com^$important
@@ -183,6 +197,7 @@
 @@||help.ui.xboxlive.com^$important
 @@||i.s-microsoft.com^$important
 @@||ic3.events.data.microsoft.com^$important
+@@||install.appcenter.ms^$important
 @@||licensing.xboxlive.com^$important
 @@||live.com^$important
 @@||microsoftonline.com^$important
