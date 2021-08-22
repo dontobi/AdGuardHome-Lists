@@ -1,18 +1,21 @@
 ! Blacklist - Regex
+
+# 
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
 /^(page|m)?ad[sx]?[0-9]*\./
 /^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
-/^adim(age|g)s?[0-9]*[_.-]/
-/^adtrack(er|ing)?[0-9]*[_.-]/
-/^advert(s|is(ing|ements?))?[0-9]*[_.-]/
-/^aff(iliat(es?|ion))?[_.-]/
+/^adim(age|g)s?[0-9]*\./
+/^adservers?[0-9]*\./
+/^adtrack(er|ing)?[0-9]*\./
+/^advert(s|ising|ise(rs?))?[0-9]*\./
+/^affiliates?[0-9]*\./
 /^analytics?[_.-]/
 /^banners?[_.-]/
-/^beacons?[0-9]*[_.-]/
+/^beacons?[0-9]*\./
 /^count(ers?)?[0-9]*[_.-]/
 /^mads\./
-/^pixels?[-.]/
+/^pixels?[0-9]*\./
 /^s?analytics?[0-9]*\./
 /^s?metrics?[0-9]*\./
 /^stat(s|istics)?[0-9]*[_.-]/
@@ -20,11 +23,15 @@
 /^track(srv|er|ing)?[0-9]*\./
 /^trc?k[0-9]*\./
 /^wpad\./
-! Most Abused Top Level Domains
+
+# Most Abused Top Level Domains
 /(\.asia$|\.cn$|\.hk$|\.jp$|\.kp$|\.kr$|\.ru$\.su$|\.vn$)/
 /(\.adult$|\.cam$|\.gay$|\.porn$|\.sex$|\.sexy$|\.tube$|\.webcam$|\.xxx$)/
 /(\.bet$|\.bar$|\.casino$|\.date$|\.gq$|\.icu$|\.link$|\.ml$|\.poker$|\.surf$|\.top$)/
+
+
 ! Blacklist - Domains
+
 # Amazon
 ||aan.amazon.com^
 ||aax.amazon-adsystem.com^
@@ -32,6 +39,7 @@
 ||assoc-amazon.com^
 ||c.amazon-adsystem.com^
 ||mads.amazon-adsystem.com^
+
 # Apple
 ||books-analytics-events.apple.com^
 ||books-analytics-events.news.apple-dns.net^
@@ -44,31 +52,39 @@
 ||stocks-analytics-events.news.apple-dns.net^
 ||supportmetrics.apple.com^
 ||trackingshipment.apple.com^
+
 # Bugsnag
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
+
 # Doubleclick.net
 ||ad.doubleclick.net^
 ||doubleclick.net^
+
 # Facebook
 ||ads.facebook.com^
 ||adtools.facebook.com^
 ||analytics.facebook.com^
 ||pixel.facebook.com^
+
 # FastClick
 ||cdn.fastclick.net^
 ||media.fastclick.net^
+
 # FreshMarketer
 ||freshmarketer.com^
+
 # Google
 ||ads.google.com^
 ||adservice.google.com^
 ||google-analytics.com^
 ||pagead2.googlesyndication.com^
 ||pagead2.googleadservices.com^
+
 # Hotjar
 ||hotjar.com^
 ||static.hotjar.com^
+
 # Huawei
 ||logbak.hicloud.com^
 ||logservice.hicloud.com^
@@ -80,27 +96,33 @@
 ||metrics3.data.hicloud.com^
 ||metrics4.data.hicloud.com^
 ||metrics5.data.hicloud.com^
+
 # LinkedIn
 ||ads.linkedin.com^
 ||analytics.pointdrive.linkedin.com^
+
 # Luckyorange
 ||cdn.luckyorange.com^
 ||cs.luckyorange.net^
 ||settings.luckyorange.net^
 ||upload.luckyorange.net^
 ||w1.luckyorange.com^
+
 # Media.net
 ||adservetx.media.net^
 ||media.net^
 ||static.media.net^
+
 # MouseFlow
 ||a.mouseflow.com^
 ||mouseflow.com^
+
 # OnePlus
 ||analytics.oneplus.cn^
 ||click.oneplus.cn^
 ||click.oneplus.com^
 ||open.oneplus.net^
+
 # OPPO
 ||adsfs.oppomobile.com^
 ||adx.ads.oppomobile.com^
@@ -108,20 +130,24 @@
 ||ck.ads.oppomobile.com^
 ||data.ads.oppomobile.com^
 ||g1.ads.oppomobile.com^
+
 # Pinterest
 ||ads.pinterest.com^
 ||analytics.pinterest.com^
 ||log.pinterest.com^
 ||trk.pinterest.com^
 ||widgets.pinterest.com^
+
 # Realme
 ||ata-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
+
 # Reddit
 ||ads.reddit.com^
 ||events.redditmedia.com^
 ||rereddit.com^
 ||stats.redditmedia.com^
+
 # Samsung
 ||ad.samsungadhub.com^
 ||ad.samsungads.com^
@@ -135,17 +161,22 @@
 ||samsungadhub.com^
 ||samsungads.com^
 ||smetrics.samsung.com^
+
 # Sentry
 ||browser.sentry-cdn.com^
+
 # TikTok
 ||ads.tiktok.com^
 ||analytics.tiktok.comet^
+
 # Twitter
 ||ads-twitter.com^
 ||analytics.twitter.com^
 ||static.ads-twitter.com^
+
 # Wordpress
 ||stats.wp.com^
+
 # Xiaomi
 ||ad.xiaomi.com^
 ||api.ad.xiaomi.com^
@@ -164,6 +195,7 @@
 ||tracking.miui.com^
 ||tracking.rus.miui.com^
 ||www.cdn.ad.xiaomi.com^
+
 # Yahoo
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
@@ -201,6 +233,7 @@
 ||us.adserver.yahoo.com^
 ||ush.adspecs.yahoo.com^
 ||visit.webhosting.yahoo.com^
+
 # Yandex
 ||19534.redirect.appmetrica.yandex.com^
 ||3.redirect.appmetrica.yandex.com^
@@ -234,6 +267,7 @@
 ||share.yandex.ru^
 ||startup.mobile.yandex.net^
 ||yandexadexchange.net^
+
 # YouTube
 ||ads.youtube.com^
 ||youtube.cleverads.vn^

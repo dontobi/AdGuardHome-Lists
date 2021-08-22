@@ -1,3 +1,5 @@
+! Whitelist - Domains
+
 # Akamai Technologies
 @@||akadns.net^$important
 @@||akamai.net^$important
@@ -10,10 +12,12 @@
 @@||heads-ak-spotify-com.akamaized.net^$important
 @@||spotify-com.akamaized.net^$important
 @@||widget-cdn.rpxnow.com^$important
+
 # Aliexpress.com
 @@||campaign.aliexpress.com^$important
 @@||login.aliexpress.com^$important
 @@||sale.aliexpress.com^$important
+
 # Amazfit / Huami / Zepp
 @@||account.huami.com^$important
 @@||account-de.huami.com^$important
@@ -25,7 +29,9 @@
 @@||api.amazfit.com^$important
 @@||auth-de.huami.com^$important
 @@||auth-de2.huami.com^$important
+@@||de.api.io.mi.com^$important
 @@||us.statusapi.micloud.xiaomi.net^$important
+
 # Amazon
 @@||a4k.amazon.com^$important
 @@||aiv-cdn.net.c.footprint.net^$important
@@ -54,6 +60,7 @@
 @@||kindle-time.amazon.com^$important
 @@||media-amazon.com^$important
 @@||primevideo.com^$important
+
 # Apple
 @@||apple-dns.net^$important
 @@||apple.com^$important
@@ -71,17 +78,34 @@
 @@||np-edge-cdn.itunes-apple.com.akadns.net^$important
 @@||play.itunes.apple.com.edgesuite.net^$important
 @@||uts-api-cdn.itunes-apple.com.akadns.net^$important
+
 # Bauhaus
 @@||media.bahag.cloud^$important
+
 # China-Gadgets
 @@||china-gadgets.de^$important
+
 # Cloudflare
 @@||cdn.cloudflare.net^$important
 @@||cdnjs.cloudflare.com^$important
+
 # Congstar
 @@||app.congstar.de^$important
+
 # Corona Warn App
 @@||svc90.main.px.t-online.de^$important
+
+# Deskline
+@@||resc.deskline.net^$important
+
+# Discord
+@@||discord.com^$important
+@@||discord.gg^$important
+@@||discord.media^$important
+@@||discordapp.com^$important
+@@||discordapp.net^$important
+@@||discordstatus.com^$important
+
 # Disney+
 @@||bamgrid.com^$important
 @@||cdn.registerdisney.go.com^$important
@@ -96,6 +120,10 @@
 @@||disneyplus.com^$important
 @@||dssott.com^$important
 @@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
+
+# E.ON
+@@||eon.de^$important
+
 # Facebook
 @@||api.facebook.com^$important
 @@||creative.ak.fbcdn.net^$important
@@ -117,16 +145,23 @@
 @@||portal.fb.com^$important
 @@||scontent-lhr3-1.xx.fbcdn.net^$important
 @@||star.c10r.facebook.com^$important
+
+# Gardena
+@@||gardena.com^$important
+
 # Giphy
 @@||giphy.com^$important
+
 # Github
 @@||alive.github.com^$important
 @@||api.github.com^$important
 @@||github.com^$important
 @@||github.io^$important
 @@||raw.githubusercontent.com^$important
+
 # Gleam.io
 @@||gleam.io^$important
+
 # Google
 @@||0.client-channel.google.com^$important
 @@||2.android.pool.ntp.org^$important
@@ -162,18 +197,23 @@
 @@||userlocation.googleapis.com^$important
 @@||video-stats.l.google.com^$important
 @@||yt3.ggpht.com^$important
+
 # Gravatar
 @@||gravatar.com^$important
+
 # Instagram
 @@||cdninstagram.com^$important
 @@||instagram.c10r.facebook.com^$important
 @@||instagram.com^$important
+
 # KODi
 @@||kodi.tv^$important
 @@||themoviedb.com^$important
 @@||thetvdb.com^$important
+
 # Lets Encrypt
 @@||letsencrypt.org^$important
+
 # Microsoft
 @@||1drv.com^$important
 @@||api3.cc.skype.com^$important
@@ -223,14 +263,17 @@
 @@||xflight.xboxlive.com^$important
 @@||xkms.xboxlive.com^$important
 @@||xsts.auth.xboxlive.com^$important
+
 # Optimizely
 @@||cdn.optimizely.com^$important
 @@||cdn2.optimizely.com^$important
 @@||cdn3.optimizely.com^$important
+
 # Otto
 @@||i.otto.de^$important
 @@||pxc.otto.de^$important
 @@||tp.otto.de^$important
+
 # PayPal
 @@||c.paypal.com^$important
 @@||epidm.edgesuite.net^$important
@@ -239,18 +282,24 @@
 @@||paypal.com^$important
 @@||paypalobjects.com^$important
 @@||t.paypal.com^$important
+
 # Pinterest
 @@||pinterest.com^$important
+
 # RaspberryPi.org^$important
 @@||raspberrypi.org
+
 # Reddit
 @@||reddit.com^$important
+
 # Sonos
 @@||msmetrics.ws.sonos.com^$important
+
 # Soundcloud
 @@||feeds.soundcloud.com^$important
 @@||sndcdn.com^$important
 @@||soundcloud.com^$important
+
 # Spotify
 @@||ap.spotify.com^$important
 @@||apresolve.spotify.com^$important
@@ -270,8 +319,10 @@
 @@||spotifycdn.net^$important
 @@||spotilocal.com^$important
 @@||upgrade.scdn.com^$important
+
 # Toniebox
 @@||cdn-global.configcat.com^$important
+
 # Twitch
 @@||api.twitch.tv^$important
 @@||ext-twitch.tv^$important
@@ -281,6 +332,7 @@
 @@||twitch.tv^$important
 @@||twitchcdn.net^$important
 @@||twitchsvc.net^$important
+
 # Twitter
 @@||pbs.twimg.com^$important
 @@||t.co^$important
@@ -288,10 +340,13 @@
 @@||twitter.com^$important
 @@||twitter.map.fastly.net^$important
 @@||twttr.com^$important
+
 # Vinted
 @@||images.vinted.net^$important
+
 # Vodafone
 @@||fc.vodafone.de^$important
+
 # WhatsApp
 @@||chat.cdn.whatsapp.net^$important
 @@||g.whatsapp.net^$important
@@ -301,11 +356,14 @@
 @@||web.whatsapp.com^$important
 @@||whatsapp.com^$important
 @@||whatsapp.net^$important
+
 # Wikipedia
 @@||wikipedia.org^$important
+
 # Wordpress
 @@||wordpress.com^$important
 @@||wp.com^$important
+
 # Xiaomi
 @@||adv.sec.intl.miui.com^$important
 @@||api.account.xiaomi.com^$important
@@ -329,6 +387,7 @@
 @@||t4.market.xiaomi.com^$important
 @@||t5.market.xiaomi.com^$important
 @@||zhuti.xiaomi.com^$important
+
 # Youtube
 @@||i.ytimg.com^$important
 @@||i1.ytimg.com^$important
@@ -337,6 +396,7 @@
 @@||s2.youtube.com^$important
 @@||youtu.be^$important
 @@||youtube-nocookie.com^$important
+
 # ZooPlus
 @@||shop-cdn-m.mediazs.com^$important
 @@||shop-public-cdn.mediazs.com^$important
