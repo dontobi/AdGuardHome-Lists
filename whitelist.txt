@@ -121,6 +121,9 @@
 @@||dssott.com^$important
 @@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
 
+# DPD
+@@||tracking.dpd.de^$important
+
 # E.ON
 @@||eon.de^$important
 
@@ -200,6 +203,10 @@
 
 # Gravatar
 @@||gravatar.com^$important
+
+# Home Connect (Bosch / Siemens)
+@@||device-api.asnapieu.com^$important
+@@||remote-data.asnapieu.com^$important
 
 # Instagram
 @@||cdninstagram.com^$important
@@ -286,8 +293,12 @@
 # Pinterest
 @@||pinterest.com^$important
 
-# RaspberryPi.org^$important
-@@||raspberrypi.org
+# Podcast Hosting
+@@||podcast.nexx.cloud^$important
+@@||traffic.megaphone.fm^$important
+
+# Raspberry Pi
+@@||raspberrypi.org^$important
 
 # Reddit
 @@||reddit.com^$important
