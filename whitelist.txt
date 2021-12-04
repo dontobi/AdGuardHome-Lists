@@ -205,6 +205,7 @@
 @@||gravatar.com^$important
 
 # Home Connect (Bosch / Siemens)
+@@||bshg.sc.omtrdc.net^$important
 @@||device-api.asnapieu.com^$important
 @@||remote-data.asnapieu.com^$important
 
@@ -220,6 +221,9 @@
 
 # Lets Encrypt
 @@||letsencrypt.org^$important
+
+# LinkedIn
+@@||media-exp1.licdn.com^$important
 
 # Microsoft
 @@||1drv.com^$important
