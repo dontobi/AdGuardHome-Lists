@@ -224,6 +224,7 @@
 
 # LinkedIn
 @@||media-exp1.licdn.com^$important
+@@||static-exp1.licdn.com^$important
 
 # Microsoft
 @@||1drv.com^$important
@@ -240,6 +241,7 @@
 @@||device.auth.xboxlive.com^$important
 @@||displaycatalog.mp.microsoft.com^$important
 @@||dl.delivery.mp.microsoft.com^$important
+@@||download.visualstudio.microsoft.com^$important
 @@||download.windowsupdate.com^$important
 @@||ecn.dev.virtualearth.net^$important
 @@||eds.xboxlive.com^$important
@@ -300,6 +302,9 @@
 # Podcast Hosting
 @@||podcast.nexx.cloud^$important
 @@||traffic.megaphone.fm^$important
+
+# Portainer (Docker)
+@@||portainer.io^$important
 
 # Raspberry Pi
 @@||raspberrypi.org^$important
