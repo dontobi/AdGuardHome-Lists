@@ -9,18 +9,14 @@ jobs:
   check-and-trigger:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Run script
         uses: actions/checkout@v3
+        run: |
+          chmod +x ./experimental.sh
+          sh ./experimental.sh
         with:
           repository: 'dontobi/AdGuardHome-Lists'
           token: ${{ secrets.ACTIONS_PAT }}
-
-      - name: Run Shell Script
-        id: script
-        run: |
-          chmod +x ./experimental.sh
-          ./experimental.sh
-        shell: bash
 
       - name: Check for modified files
         id: git-check
