@@ -1,0 +1,35 @@
+name: Build combined blocklist
+
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  check-and-trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          repository: 'dontobi/AdGuardHome-Lists'
+          token: ${{ secrets.ACTIONS_PAT }}
+
+      - name: Run Shell Script
+        id: script
+        run: |
+          chmod +x ./experimental.sh
+          ./experimental.sh
+        shell: bash
+
+      - name: Check for modified files
+        id: git-check
+        run: echo ::set-output name=modified::$([ -z "`git status --porcelain`" ] && echo "false" || echo "true")
+
+      - name: Commit release version
+        if: steps.git-check.outputs.modified == 'true'
+        run: |
+          git config --global user.name 'dontobi'
+          git config --global user.email 'github@myhome.zone'
+          git commit -am "New combined blocklist"
+          git push

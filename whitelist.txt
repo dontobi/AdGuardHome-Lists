@@ -300,6 +300,7 @@
 @@||pinterest.com^$important
 
 # Podcast Hosting
+@@||anchor.fm^$important
 @@||podcast.nexx.cloud^$important
 @@||traffic.megaphone.fm^$important
 
@@ -339,6 +340,9 @@
 @@||spotifycdn.net^$important
 @@||spotilocal.com^$important
 @@||upgrade.scdn.com^$important
+
+# Tasker
+@@||taskernet.com^$important
 
 # Toniebox
 @@||cdn-global.configcat.com^$important
