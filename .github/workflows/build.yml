@@ -1,4 +1,4 @@
-name: Build combined blocklist
+name: ADH Lists - Daily Task
 
 on:
   schedule:
@@ -9,23 +9,32 @@ jobs:
   check-and-trigger:
     runs-on: ubuntu-latest
     steps:
-      - name: Run script
+      - name: Checkout repo
         uses: actions/checkout@v3
-        run: |
-          chmod +x ./experimental.sh
-          sh ./experimental.sh
         with:
           repository: 'dontobi/AdGuardHome-Lists'
           token: ${{ secrets.ACTIONS_PAT }}
 
-      - name: Check for modified files
-        id: git-check
-        run: echo ::set-output name=modified::$([ -z "`git status --porcelain`" ] && echo "false" || echo "true")
-
-      - name: Commit release version
-        if: steps.git-check.outputs.modified == 'true'
+      - name: Run Shell Script
+        id: script
         run: |
-          git config --global user.name 'dontobi'
-          git config --global user.email 'github@myhome.zone'
-          git commit -am "New combined blocklist"
-          git push
+          mkdir output
+          cp blacklist.txt whitelist.txt ./output
+          chmod +x ./experimental.sh
+          sh ./experimental.sh
+          cp experimental.txt ./output
+        shell: bash
+
+      - name: Check GitHub Pages status
+        uses: crazy-max/ghaction-github-status@v2.2.0
+        with:
+          pages_threshold: major_outage
+
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: lists
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
