@@ -8,7 +8,7 @@ wget -q -O black_4.tmp https://block.energized.pro/extensions/xtreme/formats/fil
 wget -q -O black_5.tmp https://block.energized.pro/extensions/porn-lite/formats/filter
 wget -q -O black_6.tmp https://block.energized.pro/extensions/regional/formats/filter
 wget -q -O black_7.tmp https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
-wget -q -O black_8.tmp https://ewpratten.github.io/youtube_ad_blocklist/adblockplus.txt
+#wget -q -O black_8.tmp https://ewpratten.github.io/youtube_ad_blocklist/adblockplus.txt
 
 # Prepair blacklist 1 and 2
 sed -e "/^!/d" -e "/^$/d" black_1.tmp > black_1.txt
@@ -24,7 +24,7 @@ sed -e "/\[/d" -e "/^#/d" -e "/^!/d" black_6.tmp > black_6.txt
 sed -e "1,39d" -e "/^#/d" -e "/^$/d" -e "/#/d" -e "s/\0.0.0.0 /||/" -e "s/$/^/" black_7.tmp > black_7.txt
 
 # Prepair blacklist 8
-sed -e "/^!/d" -e "/^[/d" -e "/^$/d" black_8.tmp > black_8.txt
+#sed -e "/^!/d" -e "/^[/d" -e "/^$/d" black_8.tmp > black_8.txt
 
 # combine blacklists
 cat black_*.txt | sort | uniq > black_experimental.txt
