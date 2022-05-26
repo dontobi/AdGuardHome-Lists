@@ -26,7 +26,7 @@ jobs:
         shell: bash
 
       - name: Check GitHub Pages status
-        uses: crazy-max/ghaction-github-status@v2.3.0
+        uses: crazy-max/ghaction-github-status@v3.0.0
         with:
           pages_threshold: major_outage
 
