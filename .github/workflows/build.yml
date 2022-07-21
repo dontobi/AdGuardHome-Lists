@@ -19,10 +19,10 @@ jobs:
         id: script
         run: |
           mkdir output
-          cp blacklist.txt whitelist.txt ./output
-          chmod +x ./experimental.sh
-          sh ./experimental.sh
-          cp experimental.txt ./output
+          cp whitelist.txt ./output
+          chmod +x ./build_blacklist.sh
+          sh ./build_blacklist.sh
+          cp blacklist.txt ./output
         shell: bash
 
       - name: Check GitHub Pages status

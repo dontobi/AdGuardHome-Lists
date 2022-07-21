@@ -6,9 +6,6 @@ Free and open source, powerful network-wide ads & trackers blocking DNS server.<
 Add the following links to your blacklists or whitelists.
 <a href="https://raw.githubusercontent.com/dontobi/AdGuardHome-Lists/lists/blacklist.txt">Blacklist</a> | <a href="https://raw.githubusercontent.com/dontobi/AdGuardHome-Lists/lists/whitelist.txt">Whitelist</a>
 
-## Experimental
-I have created a new experimental blacklist. This consists of the blacklists from <a href="https://kb.adguard.com/en/general/adguard-ad-filters">AdGuard</a>, <a href="https://oisd.nl/">oisd</a>, <a href="https://github.com/hagezi/dns-blocklists">hagezi</a>, <a href="https://github.com/StevenBlack/hosts">StevenBlack</a> and my own. To use it you just need to add this <a href="https://raw.githubusercontent.com/dontobi/AdGuardHome-Lists/lists/experimental.txt">link</a> in AdGuard Home.
-
 ## License
 MIT License
 
