@@ -37,7 +37,6 @@ echo "! RegEx - Regular" >> header.tmp
 echo "/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/" >> header.tmp
 echo "/^(.+[_.-])?telemetry[_.-]/" >> header.tmp
 echo "/^(page|m)?ad[sx]?[0-9]*\./" >> header.tmp
-echo "/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/" >> header.tmp
 echo "/^adim(age|g)s?[0-9]*\./" >> header.tmp
 echo "/^adservers?[0-9]*\./" >> header.tmp
 echo "/^adtrack(er|ing)?[0-9]*\./" >> header.tmp
@@ -51,7 +50,6 @@ echo "/^mads\./" >> header.tmp
 echo "/^pixels?[0-9]*\./" >> header.tmp
 echo "/^s?analytics?[0-9]*\./" >> header.tmp
 echo "/^s?metrics?[0-9]*\./" >> header.tmp
-echo "/^stat(s|istics)?[0-9]*[_.-]/" >> header.tmp
 echo "/^telemetry[0-9]*\./" >> header.tmp
 echo "/^track(srv|er|ing)?[0-9]*\./" >> header.tmp
 echo "/^trc?k[0-9]*\./" >> header.tmp

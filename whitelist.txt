@@ -209,6 +209,15 @@
 @@||device-api.asnapieu.com^$important
 @@||remote-data.asnapieu.com^$important
 
+# Huawei Health
+@@||api-dre.theme.dbankcloud.com^$important
+@@||connect-drcn.dbankcloud.cn^$important
+@@||geo-dre.platform.dbankcloud.cn^$important
+@@||healthcommon-dre.things.dbankcloud.cn^$important
+@@||healthtrade-dre.things.dbankcloud.cn^$important
+@@||dnkeeper.platform.dbankcloud.cn^$important
+@@||store-dre.hispace.dbankcloud.com^$important
+
 # Instagram
 @@||cdninstagram.com^$important
 @@||instagram.c10r.facebook.com^$important
