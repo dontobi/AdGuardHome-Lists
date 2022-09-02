@@ -56,7 +56,7 @@ echo "/^trc?k[0-9]*\./" >> header.tmp
 echo "/^wpad\./" >> header.tmp
 echo "" >> header.tmp
 echo "! RegEx - TLD" >> header.tmp
-echo "/(\.asia$|\.cn$|\.hk$|\.jp$|\.kp$|\.kr$|\.ru$\.su$|\.vn$)/" >> header.tmp
+#echo "/(\.asia$|\.cn$|\.hk$|\.jp$|\.kp$|\.kr$|\.ru$\.su$|\.vn$)/" >> header.tmp
 echo "/(\.adult$|\.cam$|\.gay$|\.porn$|\.sex$|\.sexy$|\.tube$|\.webcam$|\.xxx$)/" >> header.tmp
 echo "/(\.bet$|\.bar$|\.casino$|\.date$|\.gq$|\.icu$|\.ml$|\.poker$|\.surf$|\.top$)/" >> header.tmp
 echo "" >> header.tmp
