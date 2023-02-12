@@ -1,35 +1,3 @@
-! Blacklist - Regex
-
-# 
-/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
-/^(.+[_.-])?telemetry[_.-]/
-/^(page|m)?ad[sx]?[0-9]*\./
-/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
-/^adim(age|g)s?[0-9]*\./
-/^adservers?[0-9]*\./
-/^adtrack(er|ing)?[0-9]*\./
-/^advert(s|ising|ise(rs?))?[0-9]*\./
-/^affiliates?[0-9]*\./
-/^analytics?[_.-]/
-/^banners?[_.-]/
-/^beacons?[0-9]*\./
-/^count(ers?)?[0-9]*[_.-]/
-/^mads\./
-/^pixels?[0-9]*\./
-/^s?analytics?[0-9]*\./
-/^s?metrics?[0-9]*\./
-/^stat(s|istics)?[0-9]*[_.-]/
-/^telemetry[0-9]*\./
-/^track(srv|er|ing)?[0-9]*\./
-/^trc?k[0-9]*\./
-/^wpad\./
-
-# Most Abused Top Level Domains
-/(\.asia$|\.cn$|\.hk$|\.jp$|\.kp$|\.kr$|\.ru$\.su$|\.vn$)/
-/(\.adult$|\.cam$|\.gay$|\.porn$|\.sex$|\.sexy$|\.tube$|\.webcam$|\.xxx$)/
-/(\.bet$|\.bar$|\.casino$|\.date$|\.gq$|\.icu$|\.ml$|\.poker$|\.surf$|\.top$)/
-
-
 ! Blacklist - Domains
 
 # Amazon
