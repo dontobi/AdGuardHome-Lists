@@ -255,6 +255,9 @@
 @@||device-api.asnapieu.com^$important
 @@||remote-data.asnapieu.com^$important
 
+# Hosteurope
+@@||hosteurope.de^$important
+
 # Huawei Health
 @@||api-dre.theme.dbankcloud.com^$important
 @@||connect-drcn.dbankcloud.cn^$important
@@ -359,6 +362,9 @@
 @@||minecraftprod.rtep.msgamestudios.com^$important
 @@||mojang.com^$important
 @@||minecraftdungeons.net^$important
+
+# myhome.zone
+@@||myhome.zone^$important
 
 # Napster
 @@||napster.com^$important
