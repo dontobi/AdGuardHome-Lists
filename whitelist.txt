@@ -1,5 +1,12 @@
 ! Whitelist - Domains
 
+# Adobe
+@@||activate.adobe.com^$important
+@@||assets.adobedtm.com^$important
+@@||entitlement.auth.adobe.com^$important
+@@||fpdownload.adobe.com^$important
+@@||lm.licenses.adobe.com^$important
+
 # Akamai Technologies
 @@||akadns.net^$important
 @@||akamai.net^$important
@@ -25,6 +32,7 @@
 @@||widget-cdn.rpxnow.com^$important
 
 # Aliexpress.com
+@@||ae01.alicdn.com^$important
 @@||campaign.aliexpress.com^$important
 @@||login.aliexpress.com^$important
 @@||sale.aliexpress.com^$important
@@ -61,6 +69,8 @@
 @@||audible.custhelp.com^$important
 @@||cloudfront.net^$important
 @@||d25xi40x97liuc.cloudfront.net^$important
+@@||d2c8v52ll5s99u.cloudfront.net^$important
+@@||d2gatte9o95jao.cloudfront.net^$important
 @@||dcape-na.amazon.com^$important
 @@||device-messaging-na.amazon.com^$important
 @@||device-metrics-us-2.amazon.com^$important
@@ -74,6 +84,7 @@
 @@||kindle-time.amazon.com^$important
 @@||media-amazon.com^$important
 @@||primevideo.com^$important
+@@||s3.amazonaws.com^$important
 
 # Apple
 @@||apple-dns.net^$important
@@ -83,13 +94,29 @@
 @@||cdn-apple.com^$important
 @@||gateway.fe.apple-dns.net^$important
 @@||icloud.com^$important
+@@||itunes.apple.com^$important
 @@||itunes.com^$important
 @@||music.apple.com^$important
 @@||mzstatic.com^$important
+@@||ocsp.apple.com^$important
 @@||play.itunes.apple.com.edgesuite.net^$important
+
+# Avantgate
+@@||secure.avangate.com^$important
+
+# AVM
+@@||myfritz.net^$important
 
 # Bauhaus
 @@||media.bahag.cloud^$important
+
+# Brightcove
+@@||brightcove.net^$important
+@@||edge.api.brightcove.com^$important
+@@||secure.brightcove.com^$important
+
+# CBS
+@@||om.cbsi.com^$important
 
 # China-Gadgets
 @@||china-gadgets.de^$important
@@ -98,11 +125,21 @@
 @@||cdn.cloudflare.net^$important
 @@||cdnjs.cloudflare.com^$important
 
+# cloudinary
+@@||res.cloudinary.com^$important
+
+# Coinbase
+@@||coinbase.com^$important
+
 # Congstar
 @@||app.congstar.de^$important
 
 # Corona Warn App
 @@||svc90.main.px.t-online.de^$important
+
+# Dataplicity
+@@||dataplicity.com^$important
+@@||www.dataplicity.com^$important
 
 # DAZN
 @@||authentication-prod-eu-central-1.ar.indazn.com^$important
@@ -127,6 +164,9 @@
 @@||tags.dazn.com^$important
 @@||user-profile.ar.indazn.com^$important
 @@||youth-protect.discovery.indazn.com^$important
+
+# Debian
+@@||www.debian.org^$important
 
 # Deezer
 @@||deezer.com^$important
@@ -155,20 +195,38 @@
 @@||disneyplus.com.ssl.sc.omtrdc.net^$important
 @@||disneyplus.com^$important
 @@||dssott.com^$important
+@@||livepassdl.conviva.com^$important
+@@||pings.conviva.com^$important
 @@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
+@@||zee.cws.conviva.com^$important
 
 # DPD
 @@||tracking.dpd.de^$important
 
+# Dresden Elektronik / Phoscon
+@@||dresden-elektronik.de^$important
+@@||phoscon.de^$important
+
+# Drift
+@@||drift.com^$important
+@@||driftt.com^$important
+
 #Dropbox
+@@||dl.dropbox.com^$important
+@@||dl.dropboxusercontent.com^$important
 @@||dropbox-dns.com^$important
 @@||dropbox.com^$important
 @@||dropboxapi.com^$important
 @@||dropboxstatic.com^$important
 @@||getdropbox.com^$important
+@@||ns1.dropbox.com^$important
+@@||ns2.dropbox.com^$important
 
 # E.ON
 @@||eon.de^$important
+
+# Embedly
+@@||cdn.embedly.com^$important
 
 # Epic Games
 @@||epicgames.com^$important
@@ -218,7 +276,9 @@
 @@||accounts.google.com^$important
 @@||analytics.google.com^$important
 @@||android.clients.google.com^$important
+@@||appsbackup-pa.clients6.google.com^$important
 @@||appsbackup-pa.googleapis.com^$important
+@@||appspot-preview.l.google.com^$important
 @@||clients1.google.com^$important
 @@||clients2.google.com^$important
 @@||clients3.google.com^$important
@@ -236,6 +296,7 @@
 @@||googleapis.com^$important
 @@||gstatic.com^$important
 @@||id.google.com^$important
+@@||instantmessaging-pa.googleapis.com^$important
 @@||manifest.googlevideo.com^$important
 @@||myaccount.google.com^$important
 @@||photos.googleapis.com^$important
@@ -249,6 +310,9 @@
 
 # Gravatar
 @@||gravatar.com^$important
+
+# Home Assistant
+@@||checkonline.home-assistant.io^$important
 
 # Home Connect (Bosch / Siemens)
 @@||bshg.sc.omtrdc.net^$important
@@ -267,6 +331,12 @@
 @@||dnkeeper.platform.dbankcloud.cn^$important
 @@||store-dre.hispace.dbankcloud.com^$important
 
+# Hulu
+@@||api.rlje.net^$important
+
+# Idealo
+@@||www.idealo.de^$important
+
 # iHeartRadio
 @@||937theriver.com^$important
 @@||iheart.com^$important
@@ -280,10 +350,25 @@
 @@||ihrint.com^$important
 @@||ihrstage.com^$important
 
+# Imigx
+@@||imgix.net^$important
+
 # Instagram
 @@||cdninstagram.com^$important
 @@||instagram.c10r.facebook.com^$important
 @@||instagram.com^$important
+
+# Intercom
+@@||intercom.io^$important
+
+# ipify
+@@||api.ipify.org^$important
+
+# jQuery
+@@||jquery.com^$important
+
+# jsDelivr
+@@||jsdelivr.net^$important
 
 # KODi
 @@||kodi.tv^$important
@@ -294,6 +379,7 @@
 @@||last.fm^$important
 @@||last.fm.ssl.sc.omtrdc.net^$important
 @@||lastfm.cbsi.map.fastly.net^$important
+@@||ws.audioscrobbler.com^$important
 
 # Lets Encrypt
 @@||letsencrypt.org^$important
@@ -301,6 +387,17 @@
 # LinkedIn
 @@||media-exp1.licdn.com^$important
 @@||static-exp1.licdn.com^$important
+
+# Link Shortener
+@@||bit.ly^$important
+@@||ow.ly^$important
+@@||tinyurl.com^$important
+
+# Luftfahrtbundesamt
+@@||exam.lba-openuav.de^$important
+
+# Marketwatch
+@@||s.marketwatch.com^$important
 
 # Microsoft
 @@||1drv.com^$important
@@ -317,31 +414,40 @@
 @@||dev.virtualearth.net^$important
 @@||displaycatalog.mp.microsoft.com^$important
 @@||dl.delivery.mp.microsoft.com^$important
+@@||dns.msftncsi.com^$important
 @@||docs.live.net^$important
 @@||download.visualstudio.microsoft.com^$important
 @@||download.windowsupdate.com^$important
 @@||ecn.dev.virtualearth.net^$important
 @@||emdl.ws.microsoft.com^$important
+@@||g.live.com^$important
 @@||geo-prod.do.dsp.mp.microsoft.com^$important
 @@||i.s-microsoft.com^$important
 @@||ic3.events.data.microsoft.com^$important
 @@||img.teams.skype.com^$important
 @@||install.appcenter.ms^$important
 @@||live.com^$important
+@@||login.live.com^$important
+@@||login.microsoftonline.com^$important
 @@||login.windows.net^$important
 @@||logincdn.msauth.net^$important
 @@||microsoftonline.com^$important
 @@||msftncsi.com^$important
 @@||neu1-urlp.secure.skypeassets.com^$important
 @@||nexusrules.officeapps.live.com^$important
-@@||outlook.com^$important
 @@||office.com^$important
 @@||office.net^$important
 @@||office365.com^$important
 @@||officeclient.microsoft.com^$important
 @@||onedrive.com^$important
+@@||onedrive.live.com^$important
+@@||outlook.com^$important
+@@||outlook.live.com^$important
+@@||outlook.office365.com^$important
 @@||p.sfx.ms^$important
 @@||pricelist.skype.com^$important
+@@||products.office.com^$important
+@@||s.gateway.messenger.live.com^$important
 @@||self.events.data.microsoft.com^$important
 @@||sharepoint.com^$important
 @@||skyapi.live.net^$important
@@ -363,6 +469,9 @@
 @@||mojang.com^$important
 @@||minecraftdungeons.net^$important
 
+# MyDealz
+@@||www.mydealz.de^$important
+
 # myhome.zone
 @@||myhome.zone^$important
 
@@ -370,6 +479,8 @@
 @@||napster.com^$important
 
 # Netflix
+@@||api-global.netflix.com^$important
+@@||appboot.netflix.com^$important
 @@||ichnaea.netflix.com^$important
 @@||netflix.com^$important
 @@||nflxext.com^$important
@@ -378,10 +489,29 @@
 @@||nflxso.net^$important
 @@||nflxvideo.net^$important
 @@||nrdp.prod.ftl.netflix.com^$important
+@@||secure.netflix.com^$important
 
 # Nintendo
 @@||nintendo.com^$important
 @@||nintendo.net^$important
+
+# nmp.js
+@@||registry.npmjs.org^$important
+
+# No-IP
+@@||dynupdate.no-ip.com^$important
+@@||no-ip.com^$important
+
+# NTP-Server
+@@||de.pool.ntp.org^$important
+@@||en.pool.ntp.org^$important
+@@||fr.pool.ntp.org^$important
+@@||uk.pool.ntp.org^$important
+
+# Nvidia
+@@||ota-downloads.nvidia.com^$important
+@@||gfwsl.geforce.com^$important
+@@||events.gfe.nvidia.com^$important
 
 # Optimizely
 @@||cdn.optimizely.com^$important
@@ -408,15 +538,28 @@
 @@||paypalobjects.com^$important
 @@||t.paypal.com^$important
 
+# Placehold.it
+@@||placehold.it^$important
+@@||placeholdit.imgix.net^$important
+
 # PlayStation
 @@||playstation.com^$important
 @@||playstation.net^$important
 @@||sonyentertainmentnetwork.com^$important
 
 # Plex
+@@||app.plex.tv^$important
+@@||cpms.spop10.ams.plex.bz^$important
+@@||cpms35.spop10.ams.plex.bz^$important
 @@||downloads.plex.tv^$important
+@@||meta-db-worker02.pop.ric.plex.bz^$important
 @@||meta.plex.tv^$important
+@@||my.plexapp.com^$important
 @@||news.provider.plex.tv^$important
+@@||nine.plugins.plexapp.com^$important
+@@||node.plexapp.com^$important
+@@||o1.email.plex.tv^$important
+@@||o2.sg0.plex.tv^$important
 @@||plex.bz^$important
 @@||plex.direct^$important
 @@||plex.tv.cdn.cloudflare.net^$important
@@ -424,8 +567,16 @@
 @@||plexapp.com.cdn.cloudflare.net^$important
 @@||plexapp.com^$important
 @@||podcasts.provider.plex.tv^$important
+@@||proxy.plex.bz^$important
+@@||proxy.plex.tv^$important
+@@||proxy02.pop.ord.plex.bz^$important
+@@||pubsub.plex.bz^$important
 @@||pubsub.plex.tv^$important
 @@||resources-cdn.plexapp.com^$important
+@@||staging.plex.tv^$important
+@@||status.plex.tv^$important
+@@||tvdb2.plex.tv^$important
+@@||tvthemes.plexapp.com^$important
 @@||vod.provider.plex.tv^$important
 @@||webshows.provider.plex.tv^$important
 
@@ -446,6 +597,16 @@
 # Reddit
 @@||reddit.com^$important
 
+# Samsung
+@@||cdn.samsungcloudsolution.com^$important
+@@||time.samsungcloudsolution.com^$important
+
+# Shoop
+@@||www.shoop.de^$important
+
+# Shopify
+@@||s.shopify.com^$important
+
 # Sky Ticket (WOW)
 @@||agg.oogwayintl.sky.com^$important
 @@||d3sawt37qbqwk0.cloudfront.net^$important
@@ -463,6 +624,13 @@
 @@||s.mzstatic.com^$important
 @@||wowtv.de^$important
 
+# Sonarr
+@@||apt.sonarr.tv^$important
+@@||download.sonarr.tv^$important
+@@||forums.sonarr.tv^$important
+@@||services.sonarr.tv^$important
+@@||skyhook.sonarr.tv^$important
+
 # Sonos
 @@||msmetrics.ws.sonos.com^$important
 
@@ -470,6 +638,11 @@
 @@||feeds.soundcloud.com^$important
 @@||sndcdn.com^$important
 @@||soundcloud.com^$important
+
+# Spiegel.de
+@@||sourcepoint.mgr.consensu.org^$important
+@@||message331-fra.sp-prod.net^$important
+@@||spiegel-de.spiegel.de^$important
 
 # Spotify
 @@||ap.spotify.com^$important
@@ -499,6 +672,17 @@
 
 # Tasker
 @@||taskernet.com^$important
+
+# TED
+@@||app-api.ted.com^$important
+@@||hls.ted.com^$important
+@@||tedcdn.com^$important
+
+# TheMovieDB
+@@||themoviedb.com^$important
+
+# TheTVDB
+@@||thetvdb.com^$important
 
 # Threema
 @@||ds-apip.threema.ch^$important
@@ -536,6 +720,12 @@
 @@||ubi.com^$important
 @@||ubisoftconnect.com^$important
 @@||uplay.com^$important
+
+# Vidible
+@@||cdn.vidible.tv^$important
+@@||delivery.vidible.tv^$important
+@@||img.vidible.tv^$important
+@@||videos.vidible.tv^$important
 
 # Vinted
 @@||images.vinted.net^$important
