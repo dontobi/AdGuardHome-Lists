@@ -1,8 +1,15 @@
 ! Blacklist - Domains
 
+#  Adcolony
+||ads30.adcolony.com^
+||adc3-launch.adcolony.com^
+||events3alt.adcolony.com^
+||wd.adcolony.com^
+
 # Amazon
 ||aan.amazon.com^
 ||aax.amazon-adsystem.com^
+||adtago.s3.amazonaws.com^
 ||advertising-api-eu.amazon.com^
 ||advice-ads.s3.amazonaws.com^
 ||amazon-adsystem.com^
@@ -13,6 +20,7 @@
 ||mads.amazon-adsystem.com^
 
 # Apple
+||advertising.apple.com^
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
 ||books-analytics-events.news.apple-dns.net^
@@ -21,19 +29,28 @@
 ||metrics.apple.com^
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
+||notes-analytics-events.apple.com^
 ||securemetrics.apple.com^
 ||stocks-analytics-events.apple.com^
 ||stocks-analytics-events.news.apple-dns.net^
 ||supportmetrics.apple.com^
+||tr.iadsdk.apple.com^
 ||trackingshipment.apple.com^
+||weather-analytics-events.apple.com^
 
 # Bugsnag
+||api.bugsnag.com^
+||app.bugsnag.com^
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
 
 # Doubleclick.net
 ||ad.doubleclick.net^
 ||doubleclick.net^
+||m.doubleclick.net^
+||mediavisor.doubleclick.net^
+||static.doubleclick.net^
+||stats.g.doubleclick.net^
 
 # Facebook
 ||ads.facebook.com^
@@ -47,19 +64,32 @@
 ||media.fastclick.net^
 
 # FreshMarketer
+||claritybt.freshmarketer.com^
 ||freshmarketer.com^
+||fwtracks.freshmarketer.com^
 
 # Google
 ||ads.google.com^
 ||adservice.google.com^
+||afs.googlesyndication.com^
+||analytics.google.com^
 ||app-measurement.com^
+||click.googleanalytics.com^
 ||google-analytics.com^
-||pagead2.googlesyndication.com^
 ||pagead2.googleadservices.com^
+||pagead2.googlesyndication.com^
+||ssl.google-analytics.com^
 
 # Hotjar
+||adm.hotjar.com^
+||careers.hotjar.com^
+||events.hotjar.io^
 ||hotjar.com^
+||identify.hotjar.com^
+||insights.hotjar.com^
+||script.hotjar.com^
 ||static.hotjar.com^
+||surveys.hotjar.com^
 
 # Huawei
 ||grs.hicloud.com^
@@ -79,8 +109,11 @@
 ||analytics.pointdrive.linkedin.com^
 
 # Luckyorange
+||api.luckyorange.com^
 ||cdn.luckyorange.com^
 ||cs.luckyorange.net^
+||luckyorange.com^
+||realtime.luckyorange.com^
 ||settings.luckyorange.net^
 ||upload.luckyorange.net^
 ||w1.luckyorange.com^
@@ -92,7 +125,10 @@
 
 # MouseFlow
 ||a.mouseflow.com^
+||api.mouseflow.com^
+||cdn-test.mouseflow.com^
 ||mouseflow.com^
+||tools.mouseflow.com^
 
 # OnePlus
 ||analytics.oneplus.cn^
@@ -124,6 +160,7 @@
 
 # Reddit
 ||ads.reddit.com^
+||events.reddit.com^
 ||events.redditmedia.com^
 ||rereddit.com^
 ||stats.redditmedia.com^
@@ -143,6 +180,7 @@
 ||smetrics.samsung.com^
 
 # Sentry
+||app.getsentry.com^
 ||browser.sentry-cdn.com^
 
 # TikTok
@@ -150,11 +188,13 @@
 ||ads-sg.tiktok.com^
 ||ads.tiktok.com^
 ||analytics-sg.tiktok.com^
+||analytics.tiktok.com^
 ||analytics.tiktok.comet^
 ||business-api.tiktok.com^
 ||log.byteoversea.com^
 
 # Twitter
+||ads-api.twitter.com^
 ||ads-twitter.com^
 ||analytics.twitter.com^
 ||static.ads-twitter.com^
@@ -185,13 +225,13 @@
 ||tracking.intl.miui.com^
 ||tracking.miui.com^
 ||tracking.rus.miui.com^
-||www.cdn.ad.xiaomi.com^
 
 # Yahoo
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
 ||adserver.yahoo.com^
 ||adspecs.yahoo.com^
+||adtech.yahooinc.com^
 ||advertising.yahoo.com^
 ||analytics.query.yahoo.com^
 ||analytics.yahoo.com^
@@ -239,6 +279,7 @@
 ||an.yandex.ru^
 ||analytics.mobile.yandex.net^
 ||appmetrica.yandex.com^
+||appmetrica.yandex.ru^
 ||awaps.yandex.ru^
 ||awsync.yandex.ru^
 ||banners-slb.mobile.yandex.net^
