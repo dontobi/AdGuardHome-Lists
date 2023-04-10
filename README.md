@@ -1,6 +1,10 @@
-<img src="https://cdn.adguard.com/public/Adguard/Common/adguard_home.svg" width="300px" alt="AdGuard Home" />
-<h3>Personal Lists for <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a><br>
-Free and open source, powerful network-wide ads & trackers blocking DNS server.</h3>
+[![Source](https://img.shields.io/badge/source-github-blue)](https://github.com/dontobi/AdGuardHome-Lists)
+[![Github Issues](https://img.shields.io/github/issues/dontobi/AdGuardHome-Lists)](https://github.com/dontobi/AdGuardHome-Lists/issues)
+[![License](https://img.shields.io/github/license/dontobi/AdGuardHome-Lists)](https://github.com/dontobi/AdGuardHome-Lists/blob/main/LICENSE.md)
+
+## AdGuard Home Lists
+Personal Lists for <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a><br>
+Free and open source, powerful network-wide ads & trackers blocking DNS server.
 
 ## Usage
 Add the following links to your blacklists or whitelists.
@@ -12,7 +16,7 @@ My blacklist is composed of several blacklists. So thanks to <a href="https://kb
 ## License
 MIT License
 
-Copyright (c) 2022 [Tobias 'dontobi' Schug]
+Copyright (c) 2022-2023 [Tobias 'dontobi' Schug]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
