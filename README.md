@@ -3,8 +3,7 @@
 [![License](https://img.shields.io/github/license/dontobi/AdGuardHome-Lists)](https://github.com/dontobi/AdGuardHome-Lists/blob/main/LICENSE.md)
 
 ## AdGuard Home Lists
-Personal Lists for <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a><br>
-Free and open source, powerful network-wide ads & trackers blocking DNS server.
+Personal Lists for <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>. Free and open source, powerful network-wide ads & trackers blocking DNS server.
 
 ## Usage
 Add the following links to your blacklists or whitelists.
