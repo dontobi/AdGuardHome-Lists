@@ -601,6 +601,9 @@
 @@||cdn.samsungcloudsolution.com^$important
 @@||time.samsungcloudsolution.com^$important
 
+# Saturn
+@@||service-my.saturn.de^$important
+
 # Shoop
 @@||www.shoop.de^$important
 
