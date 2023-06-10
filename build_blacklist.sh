@@ -59,7 +59,7 @@ echo "/^wpad\./" >> header.tmp
 echo "" >> header.tmp
 echo "! RegEx - TLD" >> header.tmp
 echo "/(\.adult$|\.asia$|\.associates$|\.bar$|\.bet$|\.beauty$|\.best$|\.bid$|\.by$|\.cam$|\.casa$|\.casino$|\.cf$|\.click$|\.cricket$|\.date$|\.discount$|\.financial$)/" >> header.tmp
-echo "/(\.fit$|\.ga$|\.gay$|\.gq$|\.icu$|\.ml$|\.poker$|\.porn$|\.rest$|\.ru$|\.sex$|\.sexy$|\.su$|\.surf$|\.tk$|\.tokyo$|\.top$|\.tube$|\.webcam$|\.work$|\.xxx$|\.xyz$)/" >> header.tmp
+echo "/(\.fit$|\.ga$|\.gay$|\.gq$|\.icu$|\.ml$|\.poker$|\.porn$|\.rest$|\.ru$|\.sex$|\.sexy$|\.su$|\.surf$|\.tk$|\.tokyo$|\.top$|\.tube$|\.webcam$|\.work$|\.xxx$|\.xyz$|\.zip$)/" >> header.tmp
 echo "" >> header.tmp
 echo "! RegEx - Block LAN Access" >> header.tmp
 echo "/^\w+://10\.(?:(?:[1-9]?\d|1\d\d|2(?:[0-4]\d|5[0-5]))\.){2}(?:[1-9]?\d|1\d\d|2(?:[0-4]\d|5[0-5]))[:/]/$3p,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local" >> header.tmp
