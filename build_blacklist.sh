@@ -7,9 +7,11 @@ wget -q -O raw_oisd_2.tmp https://raw.githubusercontent.com/ookangzheng/dbl-oisd
 wget -q -O raw_oisd_3.tmp https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/abp_extra.txt
 wget -q -O raw_adguard_1.tmp https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 wget -q -O raw_adguard_2.tmp https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt
-wget -q -O raw_hagezi_1.tmp https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
+wget -q -O raw_hagezi_1.tmp https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 wget -q -O raw_hagezi_2.tmp https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
 wget -q -O raw_hagezi_3.tmp https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt
+wget -q -O raw_hagezi_4.tmp https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt
+wget -q -O raw_hagezi_5.tmp https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt
 wget -q -O raw_elliotwutingfeng.tmp https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames_light_ABP.txt
 
 # Prepair blacklists
@@ -57,9 +59,9 @@ echo "/^track(srv|er|ing)?[0-9]*\./" >> header.tmp
 echo "/^trc?k[0-9]*\./" >> header.tmp
 echo "/^wpad\./" >> header.tmp
 echo "" >> header.tmp
-echo "! RegEx - TLD" >> header.tmp
-echo "/(\.adult$|\.asia$|\.associates$|\.bar$|\.bet$|\.beauty$|\.best$|\.bid$|\.by$|\.cam$|\.casa$|\.casino$|\.cf$|\.click$|\.cricket$|\.date$|\.discount$|\.financial$)/" >> header.tmp
-echo "/(\.fit$|\.ga$|\.gay$|\.gq$|\.icu$|\.ml$|\.poker$|\.porn$|\.rest$|\.ru$|\.sex$|\.sexy$|\.su$|\.surf$|\.tk$|\.tokyo$|\.top$|\.tube$|\.webcam$|\.work$|\.xxx$|\.xyz$|\.zip$)/" >> header.tmp
+#echo "! RegEx - TLD" >> header.tmp
+#echo "/(\.adult$|\.asia$|\.associates$|\.bar$|\.bet$|\.beauty$|\.best$|\.bid$|\.by$|\.cam$|\.casa$|\.casino$|\.cf$|\.click$|\.cricket$|\.date$|\.discount$|\.financial$)/" >> header.tmp
+#echo "/(\.fit$|\.ga$|\.gay$|\.gq$|\.icu$|\.ml$|\.poker$|\.porn$|\.rest$|\.ru$|\.sex$|\.sexy$|\.su$|\.surf$|\.tk$|\.tokyo$|\.top$|\.tube$|\.webcam$|\.work$|\.xxx$|\.xyz$|\.zip$)/" >> header.tmp
 echo "" >> header.tmp
 echo "! RegEx - Block LAN Access" >> header.tmp
 echo "/^\w+://10\.(?:(?:[1-9]?\d|1\d\d|2(?:[0-4]\d|5[0-5]))\.){2}(?:[1-9]?\d|1\d\d|2(?:[0-4]\d|5[0-5]))[:/]/$3p,domain=~localhost|~127.0.0.1|~[::1]|~0.0.0.0|~[::]|~local" >> header.tmp
