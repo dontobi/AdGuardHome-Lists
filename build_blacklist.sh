@@ -24,6 +24,8 @@ sed -e "/^||/!d" raw_adguard_2.tmp > bl_adguard_2.tmp
 sed -e "/^||/!d" raw_hagezi_1.tmp > bl_hagezi_1.tmp
 sed -e "/^||/!d" raw_hagezi_2.tmp > bl_hagezi_2.tmp
 sed -e "/^||/!d" raw_hagezi_3.tmp > bl_hagezi_3.tmp
+sed -e "/^||/!d" raw_hagezi_4.tmp > bl_hagezi_4.tmp
+sed -e "/^||/!d" raw_hagezi_5.tmp > bl_hagezi_5.tmp
 sed -e "/^||/!d" -e 's/$all/^/' raw_elliotwutingfeng.tmp > bl_elliotwutingfeng.tmp
 
 # combine lists
