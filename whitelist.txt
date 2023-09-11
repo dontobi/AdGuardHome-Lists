@@ -31,7 +31,7 @@
 @@||uts-api-cdn.itunes-apple.com.akadns.net^$important
 @@||widget-cdn.rpxnow.com^$important
 
-# Aliexpress.com
+# Aliexpress
 @@||ae01.alicdn.com^$important
 @@||campaign.aliexpress.com^$important
 @@||login.aliexpress.com^$important
@@ -468,6 +468,9 @@
 @@||minecraftprod.rtep.msgamestudios.com^$important
 @@||mojang.com^$important
 @@||minecraftdungeons.net^$important
+
+# Mozilla
+@@||blog.mozilla.org^$important
 
 # MyDealz
 @@||www.mydealz.de^$important
