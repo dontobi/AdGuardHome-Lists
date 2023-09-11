@@ -32,7 +32,7 @@ jobs:
 
       - name: Deploy to GitHub Pages
         if: success()
-        uses: crazy-max/ghaction-github-pages@v3.2.0
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: lists
           build_dir: output
