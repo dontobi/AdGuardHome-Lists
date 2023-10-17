@@ -10,7 +10,7 @@ Add the following links to your blacklists or whitelists.
 <a href="https://raw.githubusercontent.com/dontobi/AdGuardHome-Lists/lists/blacklist.txt">Blacklist</a> | <a href="https://raw.githubusercontent.com/dontobi/AdGuardHome-Lists/lists/whitelist.txt">Whitelist</a>
 
 ## Credits
-My blacklist is composed of several blacklists. So thanks to <a href="https://kb.adguard.com/en/general/adguard-ad-filters">AdGuard</a>, <a href="https://oisd.nl/">oisd</a>, <a href="https://github.com/hagezi/dns-blocklists">hagezi</a> and <a href="https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists">elliotwutingfeng</a> for their work.
+My blacklist is composed of several blacklists. So thanks to <a href="https://github.com/hagezi/dns-blocklists">hagezi</a> and <a href="https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists">elliotwutingfeng</a> for their work.
 
 ## License
 MIT License
