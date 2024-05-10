@@ -3,19 +3,19 @@
 [![License](https://img.shields.io/github/license/dontobi/AdGuardHome-Lists)](https://github.com/dontobi/AdGuardHome-Lists/blob/main/LICENSE.md)
 
 ## AdGuard Home Lists
-Personal Lists for <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>. Free and open source, powerful network-wide ads & trackers blocking DNS server.
+My personal Lists for <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>. Free and open source, powerful network-wide ads & trackers blocking DNS server.
 
 ## Usage
 Add the following links to your blacklists or whitelists.
 <a href="https://raw.githubusercontent.com/dontobi/AdGuardHome-Lists/lists/blacklist.txt">Blacklist</a> | <a href="https://raw.githubusercontent.com/dontobi/AdGuardHome-Lists/lists/whitelist.txt">Whitelist</a>
 
 ## Credits
-My blacklist is composed of several blacklists. So thanks to <a href="https://github.com/hagezi/dns-blocklists">hagezi</a> and <a href="https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists">elliotwutingfeng</a> for their work.
+My blacklist is composed of several blacklists. So thanks to <a href="https://github.com/hagezi/dns-blocklists">hagezi</a> for his work.
 
 ## License
 MIT License
 
-Copyright (c) 2022-2023 [Tobias 'dontobi' Schug]
+Copyright (c) 2022-2024 [Tobias 'dontobi' Schug]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
