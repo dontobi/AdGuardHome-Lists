@@ -21,7 +21,7 @@ echo "! Blacklist for AdGuard Home powered by Tobias 'dontobi' S." >> bl_header.
 echo "!" >> bl_header.tmp
 echo "! GitHub: https://github.com/dontobi" >> bl_header.tmp
 echo "! Repository: https://github.com/dontobi/AdGuardHome-Lists" >> bl_header.tmp
-echo "! Sources: AdGuard, hagezi and elliotwutingfeng" >> bl_header.tmp
+echo "! Sources: hagezi and my own blacklist" >> bl_header.tmp
 echo "" >> header.tmp
 
 # Final steps
