@@ -1,0 +1,883 @@
+! Whitelist - Domains
+
+# Adobe
+@@|activate.adobe.com^$important
+@@|assets.adobedtm.com^$important
+@@|entitlement.auth.adobe.com^$important
+@@|fpdownload.adobe.com^$important
+@@|lm.licenses.adobe.com^$important
+
+# Akamai Technologies
+@@|akadns.net^$important
+@@|akamai.net^$important
+@@|akamaihd.net^$important
+@@|akamaitechnologies.com^$important
+@@|akamaized.net^$important
+@@|audio-ak-spotify-com.akamaized.net^$important
+@@|audio-akp-bbr-spotify-com.akamaized.net^$important
+@@|audio4-ak-spotify-com.akamaized.net^$important
+@@|dssott.com.akamaized.net^$important
+@@|epicgames-download1.akamaized.net^$important
+@@|fbcdn-creative-a.akamaihd.net^$important	
+@@|gdmf.apple.com.akadns.net^$important
+@@|heads-ak-spotify-com.akamaized.net^$important
+@@|iadsdk.apple.com.akadns.net^$important
+@@|init-p01md-lb.push-apple.com.akadns.net^$important
+@@|iphone-ld.origin-apple.com.akadns.net^$important
+@@|lastfm-img2.akamaized.net^$important
+@@|np-edge-cdn.itunes-apple.com.akadns.net^$important
+@@|spotify-com.akamaized.net^$important
+@@|ubistatic3-a.akamaihd.net^$important
+@@|uts-api-cdn.itunes-apple.com.akadns.net^$important
+@@|widget-cdn.rpxnow.com^$important
+
+# Aliexpress
+@@|ae01.alicdn.com^$important
+@@|campaign.aliexpress.com^$important
+@@|login.aliexpress.com^$important
+@@|sale.aliexpress.com^$important
+
+# Amazfit / Huami / Zepp
+@@|account.huami.com^$important
+@@|account-de.huami.com^$important
+@@|account-de2.huami.com^$important
+@@|api-mifit.huami.com^$important
+@@|api-mifit-de.huami.com^$important
+@@|api-mifit-de2.huami.com^$important
+@@|api-user.huami.com^$important
+@@|api.amazfit.com^$important
+@@|auth-de.huami.com^$important
+@@|auth-de2.huami.com^$important
+@@|de.api.io.mi.com^$important
+@@|us.statusapi.micloud.xiaomi.net^$important
+
+# Amazon
+@@|a4k.amazon.com^$important
+@@|aiv-cdn.net.c.footprint.net^$important
+@@|aiv-cdn.net^$important
+@@|aiv-delivery.net^$important
+@@|amazonaws.com^$important
+@@|amazonvideo.com^$important
+@@|amzn.com^$important
+@@|amzn.to^$important
+@@|api.amazonalexa.com^$important
+@@|arcus-uswest.amazon.com^$important
+@@|atv-ext.amazon.com^$important
+@@|atv-ps.amazon.com^$important
+@@|audible.ca^$important
+@@|audible.com^$important
+@@|audible.custhelp.com^$important
+@@|cloudfront.net^$important
+@@|d25xi40x97liuc.cloudfront.net^$important
+@@|d2c8v52ll5s99u.cloudfront.net^$important
+@@|d2gatte9o95jao.cloudfront.net^$important
+@@|dcape-na.amazon.com^$important
+@@|device-messaging-na.amazon.com^$important
+@@|device-metrics-us-2.amazon.com^$important
+@@|device-metrics-us.amazon.com^$important
+@@|dmqdd6hw24ucf.cloudfront.net^$important
+@@|dogvgb9ujhybx.cloudfront.net^$important
+@@|eu.api.amazonvideo.com^$important
+@@|fls-eu.amazon.com^$important
+@@|fls-na.amazon.com^$important
+@@|images-amazon.com^$important
+@@|kindle-time.amazon.com^$important
+@@|media-amazon.com^$important
+@@|primevideo.com^$important
+@@|s3.amazonaws.com^$important
+
+# Apple
+@@|apple-dns.net^$important
+@@|apple.com^$important
+@@|appleid.apple.com^$important
+@@|ax.phobos.apple.com.edgesuite.net^$important
+@@|cdn-apple.com^$important
+@@|gateway.fe.apple-dns.net^$important
+@@|icloud.com^$important
+@@|itunes.apple.com^$important
+@@|itunes.com^$important
+@@|music.apple.com^$important
+@@|mzstatic.com^$important
+@@|ocsp.apple.com^$important
+@@|play.itunes.apple.com.edgesuite.net^$important
+
+# Avantgate
+@@|secure.avangate.com^$important
+
+# AVM
+@@|myfritz.net^$important
+
+# Bauhaus
+@@|media.bahag.cloud^$important
+
+# Bitwarden
+@@|api.bitwarden.com^$important
+@@|bitwarden.com^$important
+@@|help.bitwarden.com^$important
+@@|icons.bitwarden.net^$important
+@@|identity.bitwarden.com^$important
+@@|notifications.bitwarden.com^$important
+@@|vault.bitwarden.com^$important
+
+# Brightcove
+@@|brightcove.net^$important
+@@|edge.api.brightcove.com^$important
+@@|secure.brightcove.com^$important
+
+# CBS
+@@|om.cbsi.com^$important
+
+# China-Gadgets
+@@|china-gadgets.de^$important
+
+# Cloudflare
+@@|cdn.cloudflare.net^$important
+@@|cdnjs.cloudflare.com^$important
+
+# cloudinary
+@@|res.cloudinary.com^$important
+
+# Coinbase
+@@|coinbase.com^$important
+
+# Congstar
+@@|app.congstar.de^$important
+
+# Corona Warn App
+@@|svc90.main.px.t-online.de^$important
+
+# Dataplicity
+@@|dataplicity.com^$important
+
+# DAZN
+@@|authentication-prod-eu-central-1.ar.indazn.com^$important
+@@|authentication-prod.ar.indazn.com^$important
+@@|dazn.com^$important
+@@|epg.discovery.indazn.com^$important
+@@|experiments-api.acc.indazn.com^$important
+@@|favouritesv2.discovery.indazn.com^$important
+@@|follow-shortcuts.discovery.indazn.com^$important
+@@|image.discovery.indazn.com^$important
+@@|onboarding.indazn.com^$important
+@@|p-rail.discovery.indazn.com^$important
+@@|pkg.fe.indazn.com^$important
+@@|pubby.indazn.com^$important
+@@|rail-router.discovery.indazn.com^$important
+@@|rails.discovery.indazn.com^$important
+@@|resource-strings.acc.indazn.com^$important
+@@|segmentation-service-eu-central-1.discovery.indazn.com^$important
+@@|segmentation-service.discovery.indazn.com^$important
+@@|spolo-public-api-global.acc.indazn.com^$important
+@@|static.dazndn.com^$important
+@@|tags.dazn.com^$important
+@@|user-profile.ar.indazn.com^$important
+@@|youth-protect.discovery.indazn.com^$important
+
+# Debian
+@@|debian.org^$important
+
+# Deezer
+@@|deezer.com^$important
+
+# Deskline
+@@|resc.deskline.net^$important
+
+# Discord
+@@|discord.com^$important
+@@|discord.gg^$important
+@@|discord.media^$important
+@@|discordapp.com^$important
+@@|discordapp.net^$important
+@@|discordstatus.com^$important
+
+# Disney+
+@@|bamgrid.com^$important
+@@|cdn.registerdisney.go.com^$important
+@@|cws-iad1.conviva.com^$important
+@@|cws-sjc2.conviva.com^$important
+@@|cws.conviva.com^$important
+@@|disney-plus.net^$important
+@@|disney-portal.my.onetrust.com^$important
+@@|disney.demdex.net^$important
+@@|disneyplus.bn5x.net^$important
+@@|disneyplus.com.ssl.sc.omtrdc.net^$important
+@@|disneyplus.com^$important
+@@|dssott.com^$important
+@@|livepassdl.conviva.com^$important
+@@|pings.conviva.com^$important
+@@|vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
+@@|zee.cws.conviva.com^$important
+
+# DPD
+@@|tracking.dpd.de^$important
+
+# Dresden Elektronik / Phoscon
+@@|dresden-elektronik.de^$important
+@@|phoscon.de^$important
+
+# Drift
+@@|drift.com^$important
+@@|driftt.com^$important
+
+#Dropbox
+@@|dl.dropbox.com^$important
+@@|dl.dropboxusercontent.com^$important
+@@|dropbox-dns.com^$important
+@@|dropbox.com^$important
+@@|dropboxapi.com^$important
+@@|dropboxstatic.com^$important
+@@|getdropbox.com^$important
+@@|ns1.dropbox.com^$important
+@@|ns2.dropbox.com^$important
+
+# E.ON
+@@|eon.de^$important
+
+# Embedly
+@@|cdn.embedly.com^$important
+
+# Epic Games
+@@|epicgames.com^$important
+@@|epicgames.net^$important
+@@|unrealengine.com^$important
+
+# Facebook
+@@|api.facebook.com^$important
+@@|creative.ak.fbcdn.net^$important
+@@|edge-mqtt.facebook.com^$important
+@@|external-lhr0-1.xx.fbcdn.net^$important
+@@|external-lhr1-1.xx.fbcdn.net^$important
+@@|external-lhr10-1.xx.fbcdn.net^$important
+@@|external-lhr2-1.xx.fbcdn.net^$important
+@@|external-lhr3-1.xx.fbcdn.net^$important
+@@|external-lhr4-1.xx.fbcdn.net^$important
+@@|external-lhr5-1.xx.fbcdn.net^$important
+@@|external-lhr6-1.xx.fbcdn.net^$important
+@@|external-lhr7-1.xx.fbcdn.net^$important
+@@|external-lhr8-1.xx.fbcdn.net^$important
+@@|external-lhr9-1.xx.fbcdn.net^$important
+@@|graph.facebook.com^$important
+@@|mqtt.c10r.facebook.com^$important
+@@|portal.fb.com^$important
+@@|scontent-lhr3-1.xx.fbcdn.net^$important
+@@|star.c10r.facebook.com^$important
+
+# Gardena
+@@|gardena.com^$important
+
+# Giphy
+@@|giphy.com^$important
+
+# Github
+@@|alive.github.com^$important
+@@|api.github.com^$important
+@@|github.com^$important
+@@|github.io^$important
+@@|raw.githubusercontent.com^$important
+
+# Gleam.io
+@@|gleam.io^$important
+
+# Google
+@@|0.client-channel.google.com^$important
+@@|2.android.pool.ntp.org^$important
+@@|accounts.google.com^$important
+@@|analytics.google.com^$important
+@@|android.clients.google.com^$important
+@@|appsbackup-pa.clients6.google.com^$important
+@@|appsbackup-pa.googleapis.com^$important
+@@|appspot-preview.l.google.com^$important
+@@|clients1.google.com^$important
+@@|clients2.google.com^$important
+@@|clients3.google.com^$important
+@@|clients4.google.com^$important
+@@|clients5.google.com^$important
+@@|clients6.google.com^$important
+@@|clientservices.googleapis.com^$important
+@@|cloudconfig.googleapis.com^$important
+@@|cse.google.com^$important
+@@|fonts.googleapis.com^$important
+@@|fonts.gstatic.com^$important
+@@|fundingchoicesmessages.google.com^$important
+@@|geo3.ggpht.com^$important
+@@|geomobileservices-pa.googleapis.com^$important
+@@|googleapis.com^$important
+@@|gstatic.com^$important
+@@|id.google.com^$important
+@@|instantmessaging-pa.googleapis.com^$important
+@@|manifest.googlevideo.com^$important
+@@|myaccount.google.com^$important
+@@|photos.googleapis.com^$important
+@@|play.google.com^$important
+@@|play.googleapis.com^$important
+@@|redirector.googlevideo.com^$important
+@@|survey.g.doubleclick.net^$important
+@@|userlocation.googleapis.com^$important
+@@|video-stats.l.google.com^$important
+@@|yt3.ggpht.com^$important
+
+# Gravatar
+@@|gravatar.com^$important
+
+# Home Assistant
+@@|checkonline.home-assistant.io^$important
+
+# Home Connect (Bosch / Siemens)
+@@|bshg.sc.omtrdc.net^$important
+@@|device-api.asnapieu.com^$important
+@@|remote-data.asnapieu.com^$important
+
+# Hosteurope
+@@|hosteurope.de^$important
+
+# Huawei Health
+@@|api-dre.theme.dbankcloud.com^$important
+@@|connect-drcn.dbankcloud.cn^$important
+@@|geo-dre.platform.dbankcloud.cn^$important
+@@|healthcommon-dre.things.dbankcloud.cn^$important
+@@|healthtrade-dre.things.dbankcloud.cn^$important
+@@|dnkeeper.platform.dbankcloud.cn^$important
+@@|store-dre.hispace.dbankcloud.com^$important
+
+# Hulu
+@@|api.rlje.net^$important
+
+# Idealo
+@@|idealo.de^$important
+
+# iHeartRadio
+@@|937theriver.com^$important
+@@|iheart.com^$important
+@@|iheart.mx^$important
+@@|iheartmedia.com^$important
+@@|iheartradio.ca^$important
+@@|iheartradio.co.nz^$important
+@@|iheartradio.com^$important
+@@|ihrdev.com^$important
+@@|ihrhls.com^$important
+@@|ihrint.com^$important
+@@|ihrstage.com^$important
+
+# Imigx
+@@|imgix.net^$important
+
+# Instagram
+@@|cdninstagram.com^$important
+@@|instagram.c10r.facebook.com^$important
+@@|instagram.com^$important
+
+# Intercom
+@@|intercom.io^$important
+
+# ipify
+@@|api.ipify.org^$important
+
+# jQuery
+@@|jquery.com^$important
+
+# jsDelivr
+@@|jsdelivr.net^$important
+
+# KODi
+@@|kodi.tv^$important
+@@|themoviedb.com^$important
+@@|thetvdb.com^$important
+
+# Last.fm
+@@|last.fm^$important
+@@|last.fm.ssl.sc.omtrdc.net^$important
+@@|lastfm.cbsi.map.fastly.net^$important
+@@|ws.audioscrobbler.com^$important
+
+# Lastpass
+@@|accounts.lastpass.com^$important
+@@|auth.lastpass.com^$important
+@@|content.product.lastpass.com^$important
+@@|data.product.lastpass.com^$important
+@@|identity.lastpass.com^$important
+@@|lastpass.com^$important
+@@|loglogin.lastpass.com^$important
+@@|lp-push-server-*.lastpass.com^$important
+@@|pollserver.lastpass.com^$important
+
+# Lets Encrypt
+@@|letsencrypt.org^$important
+
+# LinkedIn
+@@|media-exp1.licdn.com^$important
+@@|static-exp1.licdn.com^$important
+
+# Link Shortener
+@@|bit.ly^$important
+@@|ow.ly^$important
+@@|tinyurl.com^$important
+
+# Luftfahrtbundesamt
+@@|exam.lba-openuav.de^$important
+
+# Marketwatch
+@@|s.marketwatch.com^$important
+
+# Microsoft
+@@|1drv.com^$important
+@@|1drv.ms^$important
+@@|api.asm.skype.com^$important
+@@|api.teams.skype.com^$important
+@@|api3.cc.skype.com^$important
+@@|apps.skype.com^$important
+@@|aspnetcdn.com^$important
+@@|c.s-microsoft.com^$important
+@@|client-s.gateway.messenger.live.com^$important
+@@|clientconfig.passport.net^$important
+@@|ctldl.windowsupdate.com^$important
+@@|dev.virtualearth.net^$important
+@@|displaycatalog.mp.microsoft.com^$important
+@@|dl.delivery.mp.microsoft.com^$important
+@@|dns.msftncsi.com^$important
+@@|docs.live.net^$important
+@@|download.visualstudio.microsoft.com^$important
+@@|download.windowsupdate.com^$important
+@@|ecn.dev.virtualearth.net^$important
+@@|emdl.ws.microsoft.com^$important
+@@|g.live.com^$important
+@@|geo-prod.do.dsp.mp.microsoft.com^$important
+@@|i.s-microsoft.com^$important
+@@|ic3.events.data.microsoft.com^$important
+@@|img.teams.skype.com^$important
+@@|install.appcenter.ms^$important
+@@|live.com^$important
+@@|login.live.com^$important
+@@|login.microsoftonline.com^$important
+@@|login.windows.net^$important
+@@|logincdn.msauth.net^$important
+@@|microsoftonline.com^$important
+@@|msftncsi.com^$important
+@@|neu1-urlp.secure.skypeassets.com^$important
+@@|nexusrules.officeapps.live.com^$important
+@@|office.com^$important
+@@|office.net^$important
+@@|office365.com^$important
+@@|officeclient.microsoft.com^$important
+@@|onedrive.com^$important
+@@|onedrive.live.com^$important
+@@|outlook.com^$important
+@@|outlook.live.com^$important
+@@|outlook.office365.com^$important
+@@|p.sfx.ms^$important
+@@|pricelist.skype.com^$important
+@@|products.office.com^$important
+@@|s.gateway.messenger.live.com^$important
+@@|self.events.data.microsoft.com^$important
+@@|sharepoint.com^$important
+@@|skyapi.live.net^$important
+@@|static-asm.secure.skypeassets.com^$important
+@@|storage.live.com^$important
+@@|t0.ssl.ak.dynamic.tiles.virtualearth.net^$important
+@@|t0.ssl.ak.tiles.virtualearth.net^$important
+@@|teams.events.data.microsoft.com^$important
+@@|teams.microsoft.com^$important
+@@|ui.skype.com^$important
+@@|urlp.asm.skype.com^$important
+@@|web.vortex.data.microsoft.com^$important
+@@|weu1-api.asm.skype.com^$important
+@@|win10.ipv6.microsoft.com^$important
+
+# Minecraft
+@@|minecraft.net^$important
+@@|minecraftprod.rtep.msgamestudios.com^$important
+@@|mojang.com^$important
+@@|minecraftdungeons.net^$important
+
+# Mozilla
+@@|blog.mozilla.org^$important
+
+# MyDealz
+@@|mydealz.de^$important
+
+# myhome.zone
+@@|myhome.zone^$important
+@@|*.myhome.zone^$important
+
+# Napster
+@@|napster.com^$important
+
+# Netflix
+@@|api-global.netflix.com^$important
+@@|appboot.netflix.com^$important
+@@|ichnaea.netflix.com^$important
+@@|netflix.com^$important
+@@|nflxext.com^$important
+@@|nflximg.com^$important
+@@|nflximg.net^$important
+@@|nflxso.net^$important
+@@|nflxvideo.net^$important
+@@|nrdp.prod.ftl.netflix.com^$important
+@@|secure.netflix.com^$important
+
+# Nintendo
+@@|nintendo.com^$important
+@@|nintendo.net^$important
+
+# nmp.js
+@@|registry.npmjs.org^$important
+
+# No-IP
+@@|dynupdate.no-ip.com^$important
+@@|no-ip.com^$important
+
+# NTP-Server
+@@|de.pool.ntp.org^$important
+@@|en.pool.ntp.org^$important
+@@|fr.pool.ntp.org^$important
+@@|uk.pool.ntp.org^$important
+
+# Nvidia
+@@|ota-downloads.nvidia.com^$important
+@@|gfwsl.geforce.com^$important
+@@|events.gfe.nvidia.com^$important
+
+# Optimizely
+@@|cdn.optimizely.com^$important
+@@|cdn2.optimizely.com^$important
+@@|cdn3.optimizely.com^$important
+
+# Otto
+@@|i.otto.de^$important
+@@|pxc.otto.de^$important
+@@|tp.otto.de^$important
+
+# Pandora
+@@|p-cdn.com^$important
+@@|p-cdn.us^$important
+@@|pandora.com^$important
+@@|savagebeast.com^$important
+
+# PayPal
+@@|c.paypal.com^$important
+@@|epidm.edgesuite.net^$important
+@@|epl.paypal-communication.com^$important
+@@|images.ctfassets.net^$important
+@@|paypal.com^$important
+@@|paypalobjects.com^$important
+@@|t.paypal.com^$important
+
+# Placehold.it
+@@|placehold.it^$important
+@@|placeholdit.imgix.net^$important
+
+# PlayStation
+@@|playstation.com^$important
+@@|playstation.net^$important
+@@|sonyentertainmentnetwork.com^$important
+
+# Plex
+@@|app.plex.tv^$important
+@@|cpms.spop10.ams.plex.bz^$important
+@@|cpms35.spop10.ams.plex.bz^$important
+@@|downloads.plex.tv^$important
+@@|meta-db-worker02.pop.ric.plex.bz^$important
+@@|meta.plex.tv^$important
+@@|my.plexapp.com^$important
+@@|news.provider.plex.tv^$important
+@@|nine.plugins.plexapp.com^$important
+@@|node.plexapp.com^$important
+@@|o1.email.plex.tv^$important
+@@|o2.sg0.plex.tv^$important
+@@|plex.bz^$important
+@@|plex.direct^$important
+@@|plex.tv.cdn.cloudflare.net^$important
+@@|plex.tv^$important
+@@|plexapp.com.cdn.cloudflare.net^$important
+@@|plexapp.com^$important
+@@|podcasts.provider.plex.tv^$important
+@@|proxy.plex.bz^$important
+@@|proxy.plex.tv^$important
+@@|proxy02.pop.ord.plex.bz^$important
+@@|pubsub.plex.bz^$important
+@@|pubsub.plex.tv^$important
+@@|resources-cdn.plexapp.com^$important
+@@|staging.plex.tv^$important
+@@|status.plex.tv^$important
+@@|tvdb2.plex.tv^$important
+@@|tvthemes.plexapp.com^$important
+@@|vod.provider.plex.tv^$important
+@@|webshows.provider.plex.tv^$important
+
+# Pinterest
+@@|pinterest.com^$important
+
+# Podcast Hosting
+@@|anchor.fm^$important
+@@|podcast.nexx.cloud^$important
+@@|traffic.megaphone.fm^$important
+
+# Portainer (Docker)
+@@|portainer.io^$important
+
+# Raspberry Pi
+@@|raspberrypi.org^$important
+
+# Reddit
+@@|reddit.com^$important
+
+# Samsung
+@@|cdn.samsungcloudsolution.com^$important
+@@|time.samsungcloudsolution.com^$important
+
+# Saturn
+@@|service-my.saturn.de^$important
+
+# Shoop
+@@|shoop.de^$important
+
+# Shopify
+@@|s.shopify.com^$important
+
+# Sky Ticket (WOW)
+@@|agg.oogwayintl.sky.com^$important
+@@|d3sawt37qbqwk0.cloudfront.net^$important
+@@|de.imageservice.sky.com^$important
+@@|dpm.demdex.net^$important
+@@|eu.api.atom.sky.com^$important
+@@|graphql.ott.sky.com^$important
+@@|hlsvod.p.lb.skycdn.de^$important
+@@|id.sky.de^$important
+@@|mytv.api.nowtv.com^$important
+@@|niio-sgwl.skyanywhere.com^$important
+@@|ott-sgw.skyanywhere.com^$important
+@@|p.sky.com^$important
+@@|persona-store.sky.com^$important
+@@|s.mzstatic.com^$important
+@@|wowtv.de^$important
+
+# Sonarr
+@@|apt.sonarr.tv^$important
+@@|download.sonarr.tv^$important
+@@|forums.sonarr.tv^$important
+@@|services.sonarr.tv^$important
+@@|skyhook.sonarr.tv^$important
+
+# Sonos
+@@|msmetrics.ws.sonos.com^$important
+
+# Soundcloud
+@@|feeds.soundcloud.com^$important
+@@|sndcdn.com^$important
+@@|soundcloud.com^$important
+
+# Spiegel.de
+@@|sourcepoint.mgr.consensu.org^$important
+@@|message331-fra.sp-prod.net^$important
+@@|spiegel-de.spiegel.de^$important
+
+# Spotify
+@@|ap.spotify.com^$important
+@@|apresolve.spotify.com^$important
+@@|audio-ake.spotify.com.edgesuite.net^$important
+@@|audio4-ak.spotify.com.edgesuite.net^$important
+@@|audio4-fa.scdn.co^$important
+@@|market.spotify.com^$important
+@@|mobile-ap.spotify.com^$important
+@@|open.spotify.com^$important
+@@|pscdn.co^$important
+@@|scdn.co^$important
+@@|spclient.wg.spotify.com^$important
+@@|spotify.com.edgesuite.net^$important
+@@|spotify.com^$important
+@@|spotify.demdex.net^$important
+@@|spotify.edgekey.net^$important
+@@|spotify.map.fastly.net^$important
+@@|spotifycdn.net^$important
+@@|spotilocal.com^$important
+@@|upgrade.scdn.com^$important
+
+# Steam
+@@|steamcommunity.com^$important
+@@|steamdeck.com^$important
+@@|steampowered.com^$important
+
+# Tasker
+@@|taskernet.com^$important
+
+# TED
+@@|app-api.ted.com^$important
+@@|hls.ted.com^$important
+@@|tedcdn.com^$important
+
+# TheMovieDB
+@@|themoviedb.com^$important
+
+# TheTVDB
+@@|thetvdb.com^$important
+
+# Threema
+@@|ds-apip.threema.ch^$important
+@@|ds-blobp-24.threema.ch^$important
+@@|ds.g-86.0.threema.ch^$important
+@@|threema.ch^$important
+
+# Tidal
+@@|tidal.com^$important
+
+# Toniebox
+@@|cdn-global.configcat.com^$important
+
+# Twitch
+@@|api.twitch.tv^$important
+@@|ext-twitch.tv^$important
+@@|jtvnw.net^$important
+@@|static-cdn.jtvnw.net^$important
+@@|supervisor.ext-twitch.tv^$important
+@@|ttvnw.net^$important
+@@|twitch.map.fastly.net^$important
+@@|twitch.tv^$important
+@@|twitchcdn.net^$important
+@@|twitchsvc.net^$important
+
+# Twitter
+@@|pbs.twimg.com^$important
+@@|t.co^$important
+@@|twimg.com^$important
+@@|twitter.com^$important
+@@|twitter.map.fastly.net^$important
+@@|twttr.com^$important
+
+# Ubisoft Connect
+@@|ubi.com^$important
+@@|ubisoftconnect.com^$important
+@@|uplay.com^$important
+
+# Vidible
+@@|cdn.vidible.tv^$important
+@@|delivery.vidible.tv^$important
+@@|img.vidible.tv^$important
+@@|videos.vidible.tv^$important
+
+# Vinted
+@@|images.vinted.net^$important
+
+# Vodafone
+@@|fc.vodafone.de^$important
+
+# WhatsApp
+@@|chat.cdn.whatsapp.net^$important
+@@|g.whatsapp.net^$important
+@@|media-muc2-1.cdn.whatsapp.net^$important
+@@|media-vie1-1.cdn.whatsapp.net^$important
+@@|pps.whatsapp.net^$important
+@@|static.whatsapp.net^$important
+@@|web.whatsapp.com^$important
+@@|whatsapp.com^$important
+@@|whatsapp.net^$important
+
+# Wikipedia
+@@|wikipedia.org^$important
+
+# Wordpress
+@@|wordpress.com^$important
+@@|wp.com^$important
+
+# XBOX
+@@|achievements.xboxlive.com^$important
+@@|activityhub.xboxlive.com^$important
+@@|arc.msn.com^$important
+@@|attestation.xboxlive.com^$important
+@@|avatarv3.xboxlive.com^$important
+@@|avty.xboxlive.com^$important
+@@|cert.mgt.xboxlive.com^$important
+@@|chatfd.xboxlive.com^$important
+@@|client.wns.windows.com^$important
+@@|clubhub.xboxlive.com^$important
+@@|collections.mp.microsoft.com^$important
+@@|comments.xboxlive.com^$important
+@@|def-vef.xboxlive.com^$important
+@@|dlassets-ssl.xboxlive.com^$important
+@@|editorial.xboxlive.com^$important
+@@|eds.xboxlive.com^$important
+@@|eplists.xboxlive.com^$important
+@@|fe3cr.delivery.mp.microsoft.com^$important
+@@|help.ui.xboxlive.com^$important
+@@|img-prod-cms-rt-microsoft-com.akamaized.net^$important
+@@|leaderboards.xboxlive.com^$important
+@@|licensing.mp.microsoft.com^$important
+@@|licensing.xboxlive.com^$important
+@@|login.live.com^$important
+@@|mediahub.xboxlive.com^$important
+@@|mixer.com^$important
+@@|notificationinbox.xboxlive.com^$important
+@@|notifier.xboxlive.com^$important
+@@|notify.xboxlive.com^$important
+@@|ocsp.digicert.com^$important
+@@|ocsp.msocsp.com^$important
+@@|peoplehub.xboxlive.com^$important
+@@|plaid.xboxservices.com^$important
+@@|privacy.xboxlive.com^$important
+@@|profile.xboxlive.com^$important
+@@|pti.store.microsoft.com^$important
+@@|rta.xboxlive.com^$important
+@@|sessiondirectory.xboxlive.com^$important
+@@|settings-win.data.microsoft.com^$important
+@@|slscr.update.microsoft.com^$important
+@@|social.xboxlive.com^$important
+@@|storeedgefd.dsx.mp.microsoft.com^$important
+@@|title.auth.xboxlive.com^$important
+@@|title.mgt.xboxlive.com^$important
+@@|titlehub.xboxlive.com^$important
+@@|titlestorage.xboxlive.com^$important
+@@|update.xboxlive.com^$important
+@@|user.auth.xboxlive.com^$important
+@@|userpresence.xboxlive.com^$important
+@@|userstats.xboxlive.com^$important
+@@|usertitles.xboxlive.com^$important
+@@|v10.events.data.microsoft.com^$important
+@@|v20.events.data.microsoft.com^$important
+@@|xblmessaging.xboxlive.com^$important
+@@|xbox-dash-public.rec.mp.microsoft.com^$important
+@@|xbox-global.ifs.windows.com^$important
+@@|xbox-guide-public.rec.mp.microsoft.com^$important
+@@|xbox.ipv6.microsoft.com^$important
+@@|xboxexperiencesprod.experimentation.xboxlive.com^$important
+@@|xccs.xboxlive.com^$important
+@@|xflight.xboxlive.com^$important
+@@|xkms.xboxlive.com^$important
+@@|xsts.auth.xboxlive.com^$important
+
+# Xiaomi
+@@|adv.sec.intl.miui.com^$important
+@@|api.account.xiaomi.com^$important
+@@|api.device.xiaomi.net^$important
+@@|api.micloud.xiaomi.net^$important
+@@|api.sec.intl.miui.com^$important
+@@|au.ff.avast.sec.miui.com^$important
+@@|authbe.sec.intl.miui.com^$important
+@@|bigota.d.miui.com^$important
+@@|data.sec.miui.com^$important
+@@|f1.market.xiaomi.com^$important
+@@|f2.market.xiaomi.com^$important
+@@|f3.market.xiaomi.com^$important
+@@|f4.market.xiaomi.com^$important
+@@|f5.market.xiaomi.com^$important
+@@|file.market.xiaomi.com^$important
+@@|sa.api.intl.miui.com^$important
+@@|t1.market.xiaomi.com^$important
+@@|t2.market.xiaomi.com^$important
+@@|t3.market.xiaomi.com^$important
+@@|t4.market.xiaomi.com^$important
+@@|t5.market.xiaomi.com^$important
+@@|zhuti.xiaomi.com^$important
+
+# Yahoo
+@@|login.yahoo.com^$important
+
+# Youtube
+@@|i.ytimg.com^$important
+@@|i1.ytimg.com^$important
+@@|s.youtube.com^$important
+@@|s.ytimg.com^$important
+@@|s2.youtube.com^$important
+@@|youtu.be^$important
+@@|youtube-nocookie.com^$important
+
+# ZooPlus
+@@|shop-cdn-m.mediazs.com^$important
+@@|shop-public-cdn.mediazs.com^$important
