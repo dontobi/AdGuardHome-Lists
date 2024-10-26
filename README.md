@@ -2,6 +2,9 @@
 [![Github Issues](https://img.shields.io/github/issues/dontobi/AdGuardHome-Lists)](https://github.com/dontobi/AdGuardHome-Lists/issues)
 [![License](https://img.shields.io/github/license/dontobi/AdGuardHome-Lists)](https://github.com/dontobi/AdGuardHome-Lists/blob/main/LICENSE.md)
 
+## Repository archived
+I have decided to no longer maintain this repository. If you would like to find out which blocklists I recommend, please have a look at <a href="https://www.myhome.zone/werbung-effektiv-blockieren-meine-empfehlung/" target="blank">myHome.zone</a>.
+
 ## AdGuard Home Lists
 My personal Lists for <a href="https://adguard.com/en/adguard-home/overview.html">AdGuard Home</a>. Free and open source, powerful network-wide ads & trackers blocking DNS server.
 
